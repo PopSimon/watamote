@@ -15,9 +15,9 @@ YCbCr Matrix: TV.601
 Audio URI: watamote01_premux.mkv
 Video File: watamote01_premux.mkv
 Video Aspect Ratio: c1.77778
-Video Position: 2932
+Video Position: 11516
 Export Encoding: Unicode (UTF-8)
-Video Zoom: 2
+Video Zoom: 4
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -138,38 +138,38 @@ Dialogue: 0,0:00:25.21,0:00:25.25,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blu
 Dialogue: 0,0:00:25.25,0:00:25.29,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.64\c&H241D1C&\pos(169.36,126.06)\fscx55\fscy67}Népszerűtlen Lány
 Dialogue: 0,0:00:25.29,0:00:25.37,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.64\c&H241D1C&\pos(169.36,126.06)\fscx55\fscy67}Népszerűtlen Lány
 Dialogue: 5,0:00:25.79,0:00:26.83,Default,,0000,0000,0000,,Népszerűtlen lányok?
-Dialogue: 0,0:00:26.83,0:00:36.59,PC text,,0000,0000,0000,,{\an1\fs35\alpha&H15&\blur0.7\c&H322F28&\pos(274,460)\t(7913,7913,\c&HC06556&)\t(8247,8247,\c&H322F28&)}Nem volt még kapcsolatban fiúval
-Dialogue: 0,0:00:26.83,0:00:36.59,PC text,,0000,0000,0000,,{\an1\fs35\alpha&H15&\blur0.7\c&H322F28&\t(8539,8539,\c&HC06556&)\t(8872,8872,\c&H322F28&)\pos(274,556)}Nem hívták el randira
-Dialogue: 0,0:00:26.83,0:00:36.59,PC text,,0000,0000,0000,,{\an1\fs35\alpha&H15&\blur0.7\c&H322F28&\t(9164,9164,\c&HC06556&)\pos(274,650)}Szűz
+Dialogue: 0,0:00:26.83,0:00:36.59,PC text,,0000,0000,0000,,{\an1\fs35\alpha&H15&\blur0.7\c&H322F28&\pos(274,460)\t(7913,7913,\c&HC06556&)\t(8247,8247,\c&H322F28&)}Nem volt még kapcsolatban
+Dialogue: 0,0:00:26.83,0:00:36.59,PC text,,0000,0000,0000,,{\an1\fs35\alpha&H15&\blur0.7\c&H322F28&\t(8539,8539,\c&HC06556&)\t(8872,8872,\c&H322F28&)\pos(274,556)}Sosem hívták el randira
+Dialogue: 0,0:00:26.83,0:00:36.59,PC text,,0000,0000,0000,,{\an1\fs35\alpha&H15&\blur0.7\c&H322F28&\t(9164,9164,\c&HC06556&)\pos(274,650)}Még szűz
 Dialogue: 0,0:00:26.83,0:00:36.59,PC text,,0000,0000,0000,,{\alpha&H15&\blur0.7\pos(472,100)\c&H322F28&}A népszerűtlenség jelei
 Dialogue: 5,0:00:36.91,0:00:38.34,Default,,0000,0000,0000,,Értem...
 Dialogue: 5,0:00:39.21,0:00:42.77,Default,,0000,0000,0000,,{\i1}Egy vacak történet a mindennapjaiból.
 Dialogue: 5,0:00:43.14,0:00:46.97,Default,,0000,0000,0000,,{\i1}Más szóval, egy ronda lány aki nem kell senkinek.
 Dialogue: 5,0:00:46.97,0:00:48.69,Default,,0000,0000,0000,,{\i1}Ez annyira nem én vagyok.
-Dialogue: 5,0:00:49.18,0:00:53.40,Default,,0000,0000,0000,,{\i1}Elvégre, általánosban nem kevesebb mint hatszor beszélgettem fiúkkal!
-Dialogue: 5,0:00:55.25,0:00:57.03,Default,,0000,0000,0000,,{\i1}Mi a következő óra?
+Dialogue: 5,0:00:49.18,0:00:53.40,Default,,0000,0000,0000,,{\i1}Elvégre, korábban nem kevesebb mint hatszor beszélgettem fiúkkal!
+Dialogue: 5,0:00:55.25,0:00:57.03,Default,,0000,0000,0000,,{\i1}Milyen óránk lesz most?
 Dialogue: 5,0:00:57.03,0:01:00.71,Default,,0000,0000,0000,,{\i1}Mi? Ő... Angol.
 Dialogue: 5,0:01:00.71,0:01:01.44,Default,,0000,0000,0000,,{\i1}He?
 Dialogue: 5,0:01:01.90,0:01:05.62,Default,,0000,0000,0000,,{\i1}Ha leesett a radirom háromból egyszer mindig fiú vette fel.
 Dialogue: 5,0:01:08.57,0:01:09.55,Default,,0000,0000,0000,,{\i1}Tessék.
-Dialogue: 5,0:01:10.52,0:01:12.78,Default,,0000,0000,0000,,{\i1}Volt, hogy még ők közeledtek!
+Dialogue: 5,0:01:10.52,0:01:12.78,Default,,0000,0000,0000,,{\i1}Volt, hogy még ők közeledtek felém!
 Dialogue: 5,0:01:13.98,0:01:16.68,Default,,0000,0000,0000,,{\i1}Bocsi, otthonmaradt a könyvem.
 Dialogue: 5,0:01:19.70,0:01:21.28,Default,,0000,0000,0000,,{\i1}Nem is lehetnék népszerűbb!
 Dialogue: 5,0:01:22.00,0:01:25.27,Default,,0000,0000,0000,,{\i1}Ráadásul következő hónaptól,
-Dialogue: 5,0:01:25.86,0:01:27.07,Default,,0000,0000,0000,,{\i1}középiskolás leszek!
-Dialogue: 5,0:01:28.46,0:01:31.19,Default,,0000,0000,0000,,{\i1}Középiskolában csúcsosodhat ki az ember népszerűsége!
-Dialogue: 5,0:01:31.19,0:01:35.90,Default,,0000,0000,0000,,{\i1}Dühöngő hormonok és nemi vágyak az összes fiút hozzám fogják vonzani, három kerek évig!
+Dialogue: 5,0:01:25.86,0:01:27.07,Default,,0000,0000,0000,,{\i1}gimis leszek!
+Dialogue: 5,0:01:28.46,0:01:31.19,Default,,0000,0000,0000,,{\i1}Gimiben csúcsosodhat ki az ember népszerűsége!
+Dialogue: 5,0:01:31.19,0:01:35.90,Default,,0000,0000,0000,,{\i1}Dühöngő hormonok és nemi vágyak az összes fiút hozzám vonza majd, három kerek évig!
 Dialogue: 5,0:01:35.90,0:01:39.70,Default,,0000,0000,0000,,{\i1}Már ötven évet lehúztam randi-szimulátorokban
 Dialogue: 5,0:01:39.70,0:01:42.77,Default,,0000,0000,0000,,{\i1}és már száz különböző fiúval összejöttem.
-Dialogue: 5,0:01:42.77,0:01:45.26,Default,,0000,0000,0000,,{\i1}I've been very thorough in my simulations!
-Dialogue: 5,0:01:47.80,0:01:52.46,Default,,0000,0000,0000,,{\i1}I can't wait for the day I become a real high school girl!
-Dialogue: 5,0:02:02.25,0:02:05.54,Default,,0000,0000,0000,,{\i1}It's the middle of May now...
-Dialogue: 5,0:02:08.57,0:02:10.02,Default,,0000,0000,0000,,So, like...
+Dialogue: 5,0:01:42.77,0:01:45.26,Default,,0000,0000,0000,,{\i1}Alaposan felkészültem mindenre!
+Dialogue: 5,0:01:47.80,0:01:52.46,Default,,0000,0000,0000,,{\i1}Alig várom a napot mikor végre igazi gimnazista leszek!
+Dialogue: 5,0:02:02.25,0:02:05.54,Default,,0000,0000,0000,,{\i1}Május közepe van...
+Dialogue: 5,0:02:08.57,0:02:10.02,Default,,0000,0000,0000,,Komolyan!
 Dialogue: 5,0:02:10.02,0:02:11.89,Default,,0000,0000,0000,,That's so weird!
 Dialogue: 5,0:02:11.89,0:02:13.19,Default,,0000,0000,0000,,Totally!
-Dialogue: 5,0:02:13.19,0:02:14.65,Default,,0000,0000,0000,,{\i1}This is weird.
-Dialogue: 5,0:02:14.65,0:02:19.34,Default,,0000,0000,0000,,{\i1}I've been in high school for two months, but nobody's talked with me yet.
-Dialogue: 5,0:02:22.34,0:02:23.40,Default,,0000,0000,0000,,{\i1}I wonder why?
+Dialogue: 5,0:02:13.19,0:02:14.65,Default,,0000,0000,0000,,{\i1}Furcsa.
+Dialogue: 5,0:02:14.65,0:02:19.34,Default,,0000,0000,0000,,{\i1}Már két hónapja járok ide de még senkivel sem beszéltem.
+Dialogue: 5,0:02:22.34,0:02:23.40,Default,,0000,0000,0000,,{\i1}Miért?
 Dialogue: 15,0:02:24.32,0:03:53.96,Default,,0000,0000,0000,,{OP}
 Dialogue: 0,0:02:26.87,0:02:30.63,WatOPgraf,,0000,0000,0000,,{\an8\pos(640,40)\blur7\1c&HFFFFFF&\bord7\1a&H90&\fsp6\fad(150,150)\3c&H090802&}l'm telling you{these I's suck}
 Dialogue: 1,0:02:26.87,0:02:30.63,WatOPgraf,,0000,0000,0000,,{\blur0.1\pos(640,40)\an8\bord7\1a&H90&\fsp6\fad(150,150)\3c&H090802&}l'm telling you{these I's suck}
@@ -1983,18 +1983,18 @@ Dialogue: 0,0:03:53.96,0:03:56.71,EpTitle,,0000,0000,0000,,{\1c&H000000&\an1\blu
 Dialogue: 0,0:03:53.96,0:03:56.71,EpTitle,,0000,0000,0000,,{\1c&H000000&\an1\blur0.5\bord3\pos(628.333,591.666)}Since I'm Not\NPopular, I'll Change\NMy Image a Bit
 Dialogue: 1,0:03:53.96,0:03:56.71,EpTitle,,0000,0000,0000,,{\an1\blur0.5\bord0\pos(487.667,125)}Lament
 Dialogue: 1,0:03:53.96,0:03:56.71,EpTitle,,0000,0000,0000,,{\an1\blur0.5\bord0\pos(628.333,591.666)}Since I'm Not\NPopular, I'll Change\NMy Image a Bit
-Dialogue: 5,0:04:02.26,0:04:04.71,Default,,0000,0000,0000,,{\i1}What the hell is going on?
-Dialogue: 5,0:04:05.53,0:04:08.62,Default,,0000,0000,0000,,{\i1}Wait, there's no reason to panic yet.
-Dialogue: 5,0:04:08.62,0:04:11.84,Default,,0000,0000,0000,,{\i1}I have plenty of time to hook up with some guys.
-Dialogue: 5,0:04:12.38,0:04:15.21,Default,,0000,0000,0000,,Remember when we all went out to karaoke?
-Dialogue: 5,0:04:15.21,0:04:16.71,Default,,0000,0000,0000,,I printed out the pictures we took!
-Dialogue: 5,0:04:16.71,0:04:18.33,Default,,0000,0000,0000,,{\i1}No reason to panic...
-Dialogue: 5,0:04:18.65,0:04:21.33,Default,,0000,0000,0000,,Whoa, what's with this picture?
-Dialogue: 5,0:04:21.33,0:04:22.59,Default,,0000,0000,0000,,{\i1}Panic...
-Dialogue: 5,0:04:22.59,0:04:25.70,Default,,0000,0000,0000,,Ew, I look so ugly in this shot!
-Dialogue: 5,0:04:25.70,0:04:26.90,Default,,0000,0000,0000,,{\i1}Pa—
-Dialogue: 5,0:04:26.90,0:04:30.08,Default,,0000,0000,0000,,Does it matter? You already have a boyfriend.
-Dialogue: 5,0:04:37.26,0:04:38.98,Default,,0000,0000,0000,,{\i1}I-I'm not even mad!
+Dialogue: 5,0:04:02.26,0:04:04.71,Default,,0000,0000,0000,,{\i1}Mi a fene folyik itt?
+Dialogue: 5,0:04:05.53,0:04:08.62,Default,,0000,0000,0000,,{\i1}Várj, még semmi okom idegeskedni.
+Dialogue: 5,0:04:08.62,0:04:11.84,Default,,0000,0000,0000,,{\i1}Még rengeteg időm van összejönni valakivel.
+Dialogue: 5,0:04:12.38,0:04:15.21,Default,,0000,0000,0000,,Emlékeztek amikor karaokézni mentünk?
+Dialogue: 5,0:04:15.21,0:04:16.71,Default,,0000,0000,0000,,Kinyomtattam a fényképeket amiket csináltunk!
+Dialogue: 5,0:04:16.71,0:04:18.33,Default,,0000,0000,0000,,{\i1}Semmi ok a pánikra...
+Dialogue: 5,0:04:18.65,0:04:21.33,Default,,0000,0000,0000,,Pff, mi van ezzel a képpel?
+Dialogue: 5,0:04:21.33,0:04:22.59,Default,,0000,0000,0000,,{\i1}Pánik...
+Dialogue: 5,0:04:22.59,0:04:25.70,Default,,0000,0000,0000,,Fúj, olyan csúnya vagyok ezen a képen.
+Dialogue: 5,0:04:25.70,0:04:26.90,Default,,0000,0000,0000,,{\i1}Pá—
+Dialogue: 5,0:04:26.90,0:04:30.08,Default,,0000,0000,0000,,Mit számít? Elvégre van már barátod.
+Dialogue: 5,0:04:37.26,0:04:38.98,Default,,0000,0000,0000,,{\i1}N-Nem vagyok ideges!
 Dialogue: 5,0:04:39.50,0:04:45.89,Default,,0000,0000,0000,,{\i1}Girls who form their own cliques like that are just ditzy sluts anyway!
 Dialogue: 5,0:04:45.89,0:04:49.92,Default,,0000,0000,0000,,{\i1}Only douchebags would hang around bitches like them!
 Dialogue: 5,0:04:49.92,0:04:53.00,Default,,0000,0000,0000,,{\i1}I'd rather be alone than hang out with those pieces of trash.
@@ -2003,32 +2003,32 @@ Dialogue: 5,0:04:56.04,0:04:57.39,Default,,0000,0000,0000,,{\i1}Maybe not alone.
 Dialogue: 5,0:04:57.39,0:05:00.63,Default,,0000,0000,0000,,{\i1}I'll just be having fun playing by myself.
 Dialogue: 5,0:05:00.63,0:05:06.18,Default,,0000,0000,0000,,{\i1}I'm not like those whores who wear gaudy make-up and short skirts just to get boys.
 Dialogue: 5,0:05:10.16,0:05:15.02,Default,,0000,0000,0000,,{\i1}Go ahead and live out your clichéd adolescence with your fellow scum.
-Dialogue: 5,0:05:18.10,0:05:20.02,Default,,0000,0000,0000,,See you later, teacher!
-Dialogue: 5,0:05:20.23,0:05:24.29,Default,,0000,0000,0000,,Take care. Remember, exams are coming up, so don't spend all your time goofing off.
-Dialogue: 5,0:05:24.29,0:05:25.57,Default,,0000,0000,0000,,Yes, sir!
-Dialogue: 5,0:05:26.64,0:05:29.05,Default,,0000,0000,0000,,Speaking of which, have you been studying?
-Dialogue: 5,0:05:29.05,0:05:30.10,Default,,0000,0000,0000,,Not a bit!
-Dialogue: 5,0:05:31.05,0:05:32.31,Default,,0000,0000,0000,,I know, right? I haven't either!
-Dialogue: 5,0:05:32.31,0:05:35.33,Default,,0000,0000,0000,,{\i1}Midterms are approaching.
-Dialogue: 5,0:05:35.33,0:05:38.57,Default,,0000,0000,0000,,{\i1}If I do well, I'm certain...
-Dialogue: 5,0:05:39.14,0:05:41.75,Default,,0000,0000,0000,,You're so smart, Kuroki.
-Dialogue: 5,0:05:41.75,0:05:43.11,Default,,0000,0000,0000,,Teach me this one.
-Dialogue: 5,0:05:43.11,0:05:45.03,Default,,0000,0000,0000,,Well, you see...
-Dialogue: 5,0:05:45.82,0:05:49.39,Default,,0000,0000,0000,,{\i1}Many heads will turn my way!
-Dialogue: 5,0:05:53.87,0:05:54.80,Default,,0000,0000,0000,,Time to go home.
+Dialogue: 5,0:05:18.10,0:05:20.02,Default,,0000,0000,0000,,Viszont látásra tanárúr!
+Dialogue: 5,0:05:20.23,0:05:24.29,Default,,0000,0000,0000,,'sztok. Aztán tanuljatok is a vizsgárka ne csak lustálkodjatok.
+Dialogue: 5,0:05:24.29,0:05:25.57,Default,,0000,0000,0000,,Rendben!
+Dialogue: 5,0:05:26.64,0:05:29.05,Default,,0000,0000,0000,,Tényleg... tanultál már?
+Dialogue: 5,0:05:29.05,0:05:30.10,Default,,0000,0000,0000,,Egy mukkot sem!
+Dialogue: 5,0:05:31.05,0:05:32.31,Default,,0000,0000,0000,,Ugye? Még én sem!
+Dialogue: 5,0:05:32.31,0:05:35.33,Default,,0000,0000,0000,,{\i1}Közeledik a félévi számonkérés.
+Dialogue: 5,0:05:35.33,0:05:38.57,Default,,0000,0000,0000,,{\i1}Ha jól sikerülnek akkor biztosan...
+Dialogue: 5,0:05:39.14,0:05:41.75,Default,,0000,0000,0000,,Kukori te olyan okos vagy.
+Dialogue: 5,0:05:41.75,0:05:43.11,Default,,0000,0000,0000,,Ezt magyarázd el.
+Dialogue: 5,0:05:43.11,0:05:45.03,Default,,0000,0000,0000,,Hát, tudod...
+Dialogue: 5,0:05:45.82,0:05:49.39,Default,,0000,0000,0000,,{\i1}Sokan fognak hozzám fordulni!
+Dialogue: 5,0:05:53.87,0:05:54.80,Default,,0000,0000,0000,,Menjünk.
 Dialogue: 0,0:06:00.25,0:06:00.42,PC text,,0000,0000,0000,,{\fax-0.1\an1\fscx90\fscy90\fs25\blur0.7\c&H001429&\fnGill Sans Display MT Pro Bold\frz7.679\pos(686.001,348)}Kuroki
 Dialogue: 0,0:06:00.42,0:06:00.50,PC text,,0000,0000,0000,,{\fax-0.1\an1\fscx90\fscy90\fs25\blur0.7\c&H001429&\fnGill Sans Display MT Pro Bold\frz7.679\pos(686.001,348)\iclip(m 707 348 b 698 298 733 332 737 343 l 750 354 716 360)}Kuroki
 Dialogue: 0,0:06:00.50,0:06:00.59,PC text,,0000,0000,0000,,{\fax-0.1\an1\fscx90\fscy90\fs25\blur0.7\c&H001429&\fnGill Sans Display MT Pro Bold\frz7.679\pos(686.001,348)\clip(m 717 308 b 708 258 743 292 747 303 l 758 334 725 321)}Kuroki
-Dialogue: 5,0:06:00.64,0:06:01.88,Default,,0000,0000,0000,,Hey,
+Dialogue: 5,0:06:00.64,0:06:01.88,Default,,0000,0000,0000,,Hé!
 Dialogue: 0,0:06:00.71,0:06:01.88,PC text,,0000,0000,0000,,{\fax-0.1\an1\fscx90\fscy90\fs25\blur0.7\c&H001429&\fnGill Sans Display MT Pro Bold\frz7.679\pos(686.001,348)}Kuroki
-Dialogue: 5,0:06:01.88,0:06:03.91,Default,,0000,0000,0000,,wanna go study together at a family restaurant?
-Dialogue: 5,0:06:03.91,0:06:05.16,Default,,0000,0000,0000,,Sounds good.
-Dialogue: 5,0:06:05.16,0:06:05.84,Default,,0000,0000,0000,,Huh?
-Dialogue: 5,0:06:05.84,0:06:08.90,Default,,0000,0000,0000,,You two are gonna go study together?
-Dialogue: 5,0:06:08.90,0:06:10.29,Default,,0000,0000,0000,,Have room for two more?
-Dialogue: 5,0:06:10.29,0:06:11.16,Default,,0000,0000,0000,,What?
-Dialogue: 5,0:06:11.16,0:06:12.46,Default,,0000,0000,0000,,Are you for real?
-Dialogue: 5,0:06:12.46,0:06:13.50,Default,,0000,0000,0000,,Why not?
+Dialogue: 5,0:06:01.88,0:06:03.91,Default,,0000,0000,0000,,nem jössz el velem tanulni a vendéglőbe?
+Dialogue: 5,0:06:03.91,0:06:05.16,Default,,0000,0000,0000,,Jól hangzik.
+Dialogue: 5,0:06:05.16,0:06:05.84,Default,,0000,0000,0000,,Mi?
+Dialogue: 5,0:06:05.84,0:06:08.90,Default,,0000,0000,0000,,Elmentek párban tanulni?
+Dialogue: 5,0:06:08.90,0:06:10.29,Default,,0000,0000,0000,,Van hely még kettőnek?
+Dialogue: 5,0:06:10.29,0:06:11.16,Default,,0000,0000,0000,,Micsoda?
+Dialogue: 5,0:06:11.16,0:06:12.46,Default,,0000,0000,0000,,Komolyan?
+Dialogue: 5,0:06:12.46,0:06:13.50,Default,,0000,0000,0000,,Miért ne?
 Dialogue: 5,0:06:13.50,0:06:16.95,Default,,0000,0000,0000,,{\i1}Can't this school be invaded by terrorists or something?
 Dialogue: 5,0:06:17.46,0:06:19.12,Default,,0000,0000,0000,,Cram school blows.
 Dialogue: 5,0:06:19.12,0:06:20.65,Default,,0000,0000,0000,,Wanna skip?
@@ -2038,28 +2038,28 @@ Dialogue: 5,0:06:24.34,0:06:25.05,Default,,0000,0000,0000,,Sure.
 Dialogue: 5,0:06:25.43,0:06:27.88,Default,,0000,0000,0000,,{\i1}Or maybe the Shorty Aliens from G**tz could attack,
 Dialogue: 5,0:06:28.45,0:06:30.91,Default,,0000,0000,0000,,{\i1}or Shimada from P***syte could show up.
 Dialogue: 5,0:06:31.60,0:06:33.87,Default,,0000,0000,0000,,{\i1}After he's been doused with sulfuric acid, of course.
-Dialogue: 5,0:06:34.30,0:06:36.09,Default,,0000,0000,0000,,Goodbye.
-Dialogue: 5,0:06:36.09,0:06:37.97,Default,,0000,0000,0000,,Later. Be careful on your way home.
-Dialogue: 5,0:06:39.81,0:06:42.20,Default,,0000,0000,0000,,Kuroki, be careful on your way home.
-Dialogue: 5,0:06:53.82,0:06:54.96,Default,,0000,0000,0000,,Later.
-Dialogue: 5,0:07:01.23,0:07:04.96,Default,,0000,0000,0000,,{\i1}I haven't talked with anyone at school for such a long time.
-Dialogue: 5,0:07:04.96,0:07:08.40,Default,,0000,0000,0000,,{\i1}I can't even even mutter a "goodbye" anymore.
+Dialogue: 5,0:06:34.30,0:06:36.09,Default,,0000,0000,0000,,Viszont látásra!
+Dialogue: 5,0:06:36.09,0:06:37.97,Default,,0000,0000,0000,,Szia. Odafigyelni ám az úton.
+Dialogue: 5,0:06:39.81,0:06:42.20,Default,,0000,0000,0000,,Kuroki, figyelj oda az úton.
+Dialogue: 5,0:06:53.82,0:06:54.96,Default,,0000,0000,0000,,V'szlát.
+Dialogue: 5,0:07:01.23,0:07:04.96,Default,,0000,0000,0000,,{\i1}Olyan régen nem beszéltem senkivel a suliban, hogy
+Dialogue: 5,0:07:04.96,0:07:08.40,Default,,0000,0000,0000,,{\i1}már köszönni sem tudok a tanároknak.
 Dialogue: 5,0:07:08.86,0:07:10.52,Default,,0000,0000,0000,,Tomoko!
-Dialogue: 5,0:07:14.11,0:07:15.84,Default,,0000,0000,0000,,I'm going shopping.
-Dialogue: 5,0:07:15.84,0:07:17.34,Default,,0000,0000,0000,,Anything you want?
+Dialogue: 5,0:07:14.11,0:07:15.84,Default,,0000,0000,0000,,Elugrok a boltba.
+Dialogue: 5,0:07:15.84,0:07:17.34,Default,,0000,0000,0000,,Kérsz valamit?
 Dialogue: 5,0:07:17.34,0:07:18.98,Default,,0000,0000,0000,,Uh, twice-cooked pork.
-Dialogue: 5,0:07:19.18,0:07:20.62,Default,,0000,0000,0000,,Got it.
-Dialogue: 5,0:07:20.62,0:07:21.98,Default,,0000,0000,0000,,I'll be back soon.
-Dialogue: 5,0:07:27.50,0:07:30.85,Default,,0000,0000,0000,,{\i1}I can talk normally with my mother.
-Dialogue: 5,0:07:31.40,0:07:35.37,Default,,0000,0000,0000,,{\i1}I guess even recluses can talk with their parents.
-Dialogue: 5,0:07:35.37,0:07:38.90,Default,,0000,0000,0000,,{\i1}But what really matters is talking with other people, especially guys.
-Dialogue: 5,0:07:39.51,0:07:45.12,Default,,0000,0000,0000,,{\i1}I've gotta get back the social skills I had in middle school.
-Dialogue: 5,0:07:48.24,0:07:49.29,Default,,0000,0000,0000,,Bitter...
-Dialogue: 5,0:07:50.77,0:07:52.54,Default,,0000,0000,0000,,{\i1}Hey, it's been a while.
-Dialogue: 5,0:07:52.95,0:07:54.31,Default,,0000,0000,0000,,{\i1}Have you been doing well?
+Dialogue: 5,0:07:19.18,0:07:20.62,Default,,0000,0000,0000,,Oké.
+Dialogue: 5,0:07:20.62,0:07:21.98,Default,,0000,0000,0000,,Mindjárt jövök.
+Dialogue: 5,0:07:27.50,0:07:30.85,Default,,0000,0000,0000,,{\i1}Anyuhoz minden további nélkül tudok beszélni.
+Dialogue: 5,0:07:31.40,0:07:35.37,Default,,0000,0000,0000,,{\i1}Hát, azt hiszem mindenki tud beszélni legalább a szüleivel.
+Dialogue: 5,0:07:35.37,0:07:38.90,Default,,0000,0000,0000,,{\i1}Idegen emberekkel való beszélgetés számít csak igazán, főleg fiúkkal.
+Dialogue: 5,0:07:39.51,0:07:45.12,Default,,0000,0000,0000,,{\i1}Vissza kell szereznem a szociális képességeimet ami egyszer már megvolt.
+Dialogue: 5,0:07:48.24,0:07:49.29,Default,,0000,0000,0000,,Keserű...
+Dialogue: 5,0:07:50.77,0:07:52.54,Default,,0000,0000,0000,,{\i1}Hé, rég láttalak.
+Dialogue: 5,0:07:52.95,0:07:54.31,Default,,0000,0000,0000,,{\i1}Hogy mennek a dolgok?
 Dialogue: 0,0:07:54.16,0:07:54.20,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(-155.33,165.59)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:54.16,0:07:54.20,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(-114.33,166.59)}I guess...?
-Dialogue: 1,0:07:54.16,0:07:54.20,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(-114.33,166.59)}I guess...?
+Dialogue: 1,0:07:54.16,0:07:54.20,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(-114.33,166.59)}Megyeget...?
+Dialogue: 1,0:07:54.16,0:07:54.20,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(-114.33,166.59)}Megyeget...?
 Dialogue: 0,0:07:54.20,0:07:54.24,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(-63.41,165.6)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:07:54.20,0:07:54.24,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(-22.41,166.6)}I guess...?
 Dialogue: 1,0:07:54.20,0:07:54.24,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(-22.41,166.6)}I guess...?
