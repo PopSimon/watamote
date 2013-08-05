@@ -15,9 +15,10 @@ YCbCr Matrix: TV.601
 Audio URI: watamote01_premux.mkv
 Video File: watamote01_premux.mkv
 Video Aspect Ratio: c1.77778
-Video Position: 11516
+Video Position: 12032
 Export Encoding: Unicode (UTF-8)
 Video Zoom: 4
+Audio File: ?video
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -79,9 +80,9 @@ Comment: 0,0:03:36.15,0:03:37.19,WatOPnorm,,0000,0000,0000,,{\blur7\1c&HFFFFFFF&
 Comment: 1,0:03:40.07,0:03:42.91,WatOPnorm,,0000,0000,0000,,Let's meet in a future where everything's changed
 Comment: 0,0:03:40.07,0:03:42.91,WatOPnorm,,0000,0000,0000,,{\blur7\1c&HFFFFFFF&}Let's meet in a future where everything's changed
 Comment: 0,0:03:53.98,0:03:56.70,Watatmote_Ep_Title,,0000,0000,0000,,Lament 1 \N"Since I'm Not Popular, \NI'll Change My Image a Bit"
-Comment: 0,0:07:54.16,0:07:59.25,I Guess,,0000,0000,0000,,{\fad(203,881)}I guess...? {ask a tl to check this or something}
+Comment: 0,0:07:54.16,0:07:59.25,I Guess,,0000,0000,0000,,{\fad(203,881)}Mondhatjuk...? {ask a tl to check this or something}
 Comment: 0,0:07:54.38,0:07:58.38,Lonely,,0000,0000,0000,,{\fad(184,1)}I was lonely.
-Comment: 0,0:07:54.58,0:07:59.25,Say Nothing,,0000,0000,0000,,{\fad(251,881)}Say nothing.
+Comment: 0,0:07:54.58,0:07:59.25,Say Nothing,,0000,0000,0000,,{\fad(251,881)}Ne válaszolj.
 Comment: 0,0:07:58.41,0:07:58.45,Lonely,,0000,0000,0000,,I was lonely (change to "I've been lonely"}
 Comment: 0,0:07:58.48,0:07:58.55,Lonely,,0000,0000,0000,,I was lonely.
 Comment: 0,0:07:58.61,0:07:59.82,Lonely,,0000,0000,0000,,{\fad(191,450)}I was lonely.
@@ -99,43 +100,44 @@ Dialogue: 5,0:00:01.69,0:00:06.22,Default,,0000,0000,0000,,{\i1}Ez egy népszer�
 Dialogue: 5,0:00:21.18,0:00:23.94,Default,,0000,0000,0000,,{\i1}Egy népszerűtlen lány története...
 Dialogue: 0,0:00:21.20,0:00:23.91,PC text,,0000,0000,0000,,{\fad(150,0)\blur0.7\c&HB66B6C&\fscx263\fscy263\pos(949.771,117.195)\t(2615,2615,\c&HD5533F&)}Lány
 Dialogue: 0,0:00:23.79,0:00:23.83,PC text,,0000,0000,0000,,{\blur0.7\fscx263\fscy263\c&HD5533F&\pos(375,117.195)}Népszerűtlen
-Dialogue: 0,0:00:23.83,0:00:23.87,PC text,,0000,0000,0000,,{\blur0.7\fscx263\fscy263\c&HD5533F&\pos(375,117.195)}Népszerűtlen
+Dialogue: 0,0:00:23.83,0:00:23.87,PC text,,0000,0000,0000,,{\fs55\blur0.7\fscx263\fscy263\c&HD5533F&\pos(371.667,88.862)}Népszerűtlen
 Dialogue: 0,0:00:23.87,0:00:23.91,PC text,,0000,0000,0000,,{\blur0.7\fscx263\fscy263\c&HD5533F&\pos(375,117.195)}Népszerűtlen
-Dialogue: 0,0:00:23.91,0:00:23.96,PC text,,0000,0000,0000,,{\fad(150,0)\blur0.7\c&HB66B6C&\fscx263\fscy263\pos(949.771,117.195)\t(2615,2615,\c&HD5533F&)}Lány
-Dialogue: 0,0:00:23.91,0:00:23.96,PC text,,0000,0000,0000,,{\blur0.7\fscx263\fscy263\c&HD5533F&\pos(375,117.195)}Népszerűtlen
-Dialogue: 0,0:00:23.96,0:00:24.00,PC text,,0000,0000,0000,,{\fad(150,0)\blur0.7\c&HB66B6C&\fscx263\fscy263\pos(949.771,117.195)\t(2615,2615,\c&HD5533F&)}Lány
-Dialogue: 0,0:00:23.96,0:00:24.00,PC text,,0000,0000,0000,,{\blur0.7\fscx263\fscy263\c&HD5533F&\pos(375,117.195)}Népszerűtlen
-Dialogue: 0,0:00:24.00,0:00:24.04,PC text,,0000,0000,0000,,{\fs47\frz0\alpha&H15&\blur0.64\c&H241D1C&\fscx61\fscy73\pos(173.03,127.396)}Népszerűtlen  Lány
-Dialogue: 0,0:00:24.04,0:00:24.08,PC text,,0000,0000,0000,,{\fs47\frz0\alpha&H15&\blur0.64\c&H241D1C&\fscx61\fscy73\pos(173.03,127.396)}Népszerűtlen  Lány
-Dialogue: 0,0:00:24.08,0:00:24.12,PC text,,0000,0000,0000,,{\fs47\frz0\alpha&H15&\blur0.64\c&H241D1C&\fscx61\fscy73\pos(173.03,127.396)}Népszerűtlen  Lány
-Dialogue: 0,0:00:24.12,0:00:24.17,PC text,,0000,0000,0000,,{\fs47\frz0\alpha&H15&\blur0.64\c&H241D1C&\fscx61\fscy73\pos(173.03,127.396)}Népszerűtlen  Lány
-Dialogue: 0,0:00:24.17,0:00:24.21,PC text,,0000,0000,0000,,{\fs47\frz0\alpha&H15&\blur0.64\c&H241D1C&\fscx61\fscy73\pos(173.03,127.396)}Népszerűtlen  Lány
-Dialogue: 0,0:00:24.21,0:00:24.25,PC text,,0000,0000,0000,,{\fs47\frz0\alpha&H15&\blur0.64\c&H241D1C&\fscx61\fscy73\pos(173.03,127.396)}Népszerűtlen  Lány
+Dialogue: 0,0:00:23.91,0:00:23.96,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.7\c&H241D1C&\fscx263\fscy263\pos(949.77,110.53)}Lány
+Dialogue: 0,0:00:23.91,0:00:23.96,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.7\fscx263\fscy263\c&H241C19&\pos(375,110.53)}Népszerűtlen
+Dialogue: 0,0:00:23.96,0:00:24.00,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.64\c&H241D1C&\fscx240.37\fscy240.37\pos(876.03,112.73)}Lány
+Dialogue: 0,0:00:23.96,0:00:24.00,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.64\fscx240.37\fscy240.37\c&H241C19&\pos(350.71,112.73)}Népszerűtlen
+Dialogue: 0,0:00:24.00,0:00:24.04,PC text,,0000,0000,0000,,{\fs47\frz0\alpha&H15&\blur0.64\c&H241D1C&\fscx240.37\fscy240.37\pos(511.03,114.396)}Népszerűtlen  Lány
+Dialogue: 0,0:00:24.04,0:00:24.08,PC text,,0000,0000,0000,,{\fs47\frz0\alpha&H15&\blur0.64\c&H241D1C&\fscx184\fscy185\pos(385.03,118.396)}Népszerűtlen  Lány
+Dialogue: 0,0:00:24.08,0:00:24.12,PC text,,0000,0000,0000,,{\fs47\frz0\alpha&H15&\blur0.64\c&H241D1C&\fscx120\fscy120\pos(295.03,123.396)}Népszerűtlen  Lány
+Dialogue: 0,0:00:24.12,0:00:24.17,PC text,,0000,0000,0000,,{\fs47\frz0\alpha&H15&\blur0.64\c&H241D1C&\fscx90\fscy101\pos(233.03,128.396)}Népszerűtlen  Lány
+Dialogue: 0,0:00:24.17,0:00:24.21,PC text,,0000,0000,0000,,{\fs47\frz0\alpha&H15&\blur0.64\c&H241D1C&\fscx78\fscy86\pos(212.03,128.396)}Népszerűtlen  Lány
+Dialogue: 0,0:00:24.21,0:00:24.25,PC text,,0000,0000,0000,,{\fs47\frz0\alpha&H15&\blur0.64\c&H241D1C&\fscx64\fscy77\pos(191.03,126.396)}Népszerűtlen  Lány
 Dialogue: 0,0:00:24.25,0:00:24.29,PC text,,0000,0000,0000,,{\fs47\frz0\alpha&H15&\blur0.64\c&H241D1C&\fscx61\fscy73\pos(173.03,127.396)}Népszerűtlen  Lány
 Dialogue: 0,0:00:24.29,0:00:24.33,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.64\c&H241D1C&\pos(169.36,126.06)\fscx55\fscy67}Népszerűtlen Lány
-Dialogue: 0,0:00:24.33,0:00:24.37,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.64\c&H241D1C&\pos(169.36,126.06)\fscx55\fscy67}Népszerűtlen Lány
-Dialogue: 0,0:00:24.37,0:00:24.42,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.64\c&H241D1C&\pos(169.36,126.06)\fscx55\fscy67}Népszerűtlen Lány
-Dialogue: 0,0:00:24.42,0:00:24.46,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.64\c&H241D1C&\pos(169.36,126.06)\fscx55\fscy67}Népszerűtlen Lány
-Dialogue: 0,0:00:24.46,0:00:24.50,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.64\c&H241D1C&\pos(169.36,126.06)\fscx55\fscy67}Népszerűtlen Lány
-Dialogue: 0,0:00:24.50,0:00:24.54,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.64\c&H241D1C&\pos(169.36,126.06)\fscx55\fscy67}Népszerűtlen Lány
-Dialogue: 0,0:00:24.54,0:00:24.58,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.64\c&H241D1C&\pos(169.36,126.06)\fscx55\fscy67}Népszerűtlen Lány
-Dialogue: 0,0:00:24.58,0:00:24.62,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.64\c&H241D1C&\pos(169.36,126.06)\fscx55\fscy67}Népszerűtlen Lány
-Dialogue: 0,0:00:24.62,0:00:24.67,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.64\c&H241D1C&\pos(169.36,126.06)\fscx55\fscy67}Népszerűtlen Lány
-Dialogue: 0,0:00:24.67,0:00:24.71,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.64\c&H241D1C&\pos(169.36,126.06)\fscx55\fscy67}Népszerűtlen Lány
-Dialogue: 0,0:00:24.71,0:00:24.75,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.64\c&H241D1C&\pos(169.36,126.06)\fscx55\fscy67}Népszerűtlen Lány
-Dialogue: 0,0:00:24.75,0:00:24.79,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.64\c&H241D1C&\pos(169.36,126.06)\fscx55\fscy67}Népszerűtlen Lány
-Dialogue: 0,0:00:24.79,0:00:24.83,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.64\c&H241D1C&\pos(169.36,126.06)\fscx55\fscy67}Népszerűtlen Lány
-Dialogue: 0,0:00:24.83,0:00:24.87,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.64\c&H241D1C&\pos(169.36,126.06)\fscx55\fscy67}Népszerűtlen Lány
-Dialogue: 0,0:00:24.87,0:00:24.92,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.64\c&H241D1C&\pos(169.36,126.06)\fscx55\fscy67}Népszerűtlen Lány
-Dialogue: 0,0:00:24.92,0:00:24.96,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.64\c&H241D1C&\pos(169.36,126.06)\fscx55\fscy67}Népszerűtlen Lány
-Dialogue: 0,0:00:24.96,0:00:25.00,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.64\c&H241D1C&\pos(169.36,126.06)\fscx55\fscy67}Népszerűtlen Lány
-Dialogue: 0,0:00:25.00,0:00:25.04,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.64\c&H241D1C&\pos(169.36,126.06)\fscx55\fscy67}Népszerűtlen Lány
-Dialogue: 0,0:00:25.04,0:00:25.08,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.64\c&H241D1C&\pos(169.36,126.06)\fscx55\fscy67}Népszerűtlen Lány
-Dialogue: 0,0:00:25.08,0:00:25.12,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.64\c&H241D1C&\pos(169.36,126.06)\fscx55\fscy67}Népszerűtlen Lány
-Dialogue: 0,0:00:25.12,0:00:25.17,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.64\c&H241D1C&\pos(169.36,126.06)\fscx55\fscy67}Népszerűtlen Lány
-Dialogue: 0,0:00:25.17,0:00:25.21,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.64\c&H241D1C&\pos(169.36,126.06)\fscx55\fscy67}Népszerűtlen Lány
-Dialogue: 0,0:00:25.21,0:00:25.25,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.64\c&H241D1C&\pos(169.36,126.06)\fscx55\fscy67}Népszerűtlen Lány
-Dialogue: 0,0:00:25.25,0:00:25.29,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.64\c&H241D1C&\pos(169.36,126.06)\fscx55\fscy67}Népszerűtlen Lány
+Dialogue: 0,0:00:24.33,0:00:24.37,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.6\c&H241D1C&\pos(164.22,126.63)\fscx51.38\fscy62.6}Népszerűtlen Lány
+Dialogue: 0,0:00:24.37,0:00:24.42,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.57\c&H241D1C&\pos(160.65,127.05)\fscx48.85\fscy59.51}Népszerűtlen Lány
+Dialogue: 0,0:00:24.42,0:00:24.46,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.55\c&H241D1C&\pos(158.09,127.3)\fscx47.07\fscy57.34}Népszerűtlen Lány
+Dialogue: 0,0:00:24.46,0:00:24.50,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.53\c&H241D1C&\pos(156.31,127.5)\fscx45.82\fscy55.81}Népszerűtlen Lány
+Dialogue: 0,0:00:24.50,0:00:24.54,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.52\c&H241D1C&\pos(155.07,127.64)\fscx44.95\fscy54.75}Népszerűtlen Lány
+Dialogue: 0,0:00:24.54,0:00:24.58,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.52\c&H241D1C&\pos(154.29,127.71)\fscx44.39\fscy54.08}Népszerűtlen Lány
+Dialogue: 0,0:00:24.58,0:00:24.62,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.51\c&H241D1C&\pos(153.86,127.78)\fscx44.06\fscy53.68}Népszerűtlen Lány
+Dialogue: 0,0:00:24.62,0:00:24.67,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.51\c&H241D1C&\pos(153.71,127.78)\fscx43.98\fscy53.58}Népszerűtlen Lány
+Dialogue: 0,0:00:24.67,0:00:24.71,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.51\c&H241D1C&\pos(153.7,127.79)\fscx43.98\fscy53.57}Népszerűtlen Lány
+Dialogue: 0,0:00:24.71,0:00:24.75,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.51\c&H241D1C&\pos(153.69,127.79)\fscx43.98\fscy53.57}Népszerűtlen Lány
+Dialogue: 0,0:00:24.75,0:00:24.79,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.51\c&H241D1C&\pos(153.68,127.8)\fscx43.97\fscy53.56}Népszerűtlen Lány
+Dialogue: 0,0:00:24.79,0:00:24.83,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.51\c&H241D1C&\pos(153.67,127.81)\fscx43.96\fscy53.55}Népszerűtlen Lány
+Dialogue: 0,0:00:24.83,0:00:24.87,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.51\c&H241D1C&\pos(153.66,127.82)\fscx43.96\fscy53.55}Népszerűtlen Lány
+Dialogue: 0,0:00:24.87,0:00:24.92,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.51\c&H241D1C&\pos(153.66,127.83)\fscx43.95\fscy53.54}Népszerűtlen Lány
+Dialogue: 0,0:00:24.92,0:00:24.96,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.51\c&H241D1C&\pos(153.65,127.84)\fscx43.94\fscy53.53}Népszerűtlen Lány
+Dialogue: 0,0:00:24.96,0:00:25.00,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.51\c&H241D1C&\pos(153.64,127.85)\fscx43.93\fscy53.52}Népszerűtlen Lány
+Dialogue: 0,0:00:25.00,0:00:25.04,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.51\c&H241D1C&\pos(153.63,127.87)\fscx43.92\fscy53.51}Népszerűtlen Lány
+Dialogue: 0,0:00:25.04,0:00:25.08,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.51\c&H241D1C&\pos(153.62,127.88)\fscx43.92\fscy53.5}Népszerűtlen Lány
+Dialogue: 0,0:00:25.08,0:00:25.12,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.51\c&H241D1C&\pos(153.61,127.89)\fscx43.91\fscy53.49}Népszerűtlen Lány
+Dialogue: 0,0:00:25.12,0:00:25.17,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.51\c&H241D1C&\pos(153.6,127.9)\fscx43.9\fscy53.48}Népszerűtlen Lány
+Dialogue: 0,0:00:25.17,0:00:25.21,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.51\c&H241D1C&\pos(153.6,127.91)\fscx43.9\fscy53.47}Népszerűtlen Lány
+Dialogue: 0,0:00:25.21,0:00:25.25,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.51\c&H241D1C&\pos(153.59,127.92)\fscx43.89\fscy53.47}Népszerűtlen Lány
+Dialogue: 0,0:00:25.25,0:00:25.29,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.51\c&H241D1C&\pos(153.58,127.93)\fscx43.88\fscy53.46}Népszerűtlen Lány
+Dialogue: 0,0:00:25.29,0:00:25.37,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.51\c&H241D1C&\pos(153.57,127.94)\fscx43.88\fscy53.45}Népszerűtlen Lány
 Dialogue: 0,0:00:25.29,0:00:25.37,PC text,,0000,0000,0000,,{\frz0\alpha&H15&\blur0.64\c&H241D1C&\pos(169.36,126.06)\fscx55\fscy67}Népszerűtlen Lány
 Dialogue: 5,0:00:25.79,0:00:26.83,Default,,0000,0000,0000,,Népszerűtlen lányok?
 Dialogue: 0,0:00:26.83,0:00:36.59,PC text,,0000,0000,0000,,{\an1\fs35\alpha&H15&\blur0.7\c&H322F28&\pos(274,460)\t(7913,7913,\c&HC06556&)\t(8247,8247,\c&H322F28&)}Nem volt még kapcsolatban
@@ -2056,662 +2058,662 @@ Dialogue: 5,0:07:35.37,0:07:38.90,Default,,0000,0000,0000,,{\i1}Idegen emberekke
 Dialogue: 5,0:07:39.51,0:07:45.12,Default,,0000,0000,0000,,{\i1}Vissza kell szereznem a szociális képességeimet ami egyszer már megvolt.
 Dialogue: 5,0:07:48.24,0:07:49.29,Default,,0000,0000,0000,,Keserű...
 Dialogue: 5,0:07:50.77,0:07:52.54,Default,,0000,0000,0000,,{\i1}Hé, rég láttalak.
-Dialogue: 5,0:07:52.95,0:07:54.31,Default,,0000,0000,0000,,{\i1}Hogy mennek a dolgok?
+Dialogue: 5,0:07:52.95,0:07:54.31,Default,,0000,0000,0000,,{\i1}Minden reendben?
 Dialogue: 0,0:07:54.16,0:07:54.20,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(-155.33,165.59)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:54.16,0:07:54.20,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(-114.33,166.59)}Megyeget...?
-Dialogue: 1,0:07:54.16,0:07:54.20,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(-114.33,166.59)}Megyeget...?
+Dialogue: 1,0:07:54.16,0:07:54.20,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(-114.33,166.59)}Mondhatjuk...?
+Dialogue: 1,0:07:54.16,0:07:54.20,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(-114.33,166.59)}Mondhatjuk...?
 Dialogue: 0,0:07:54.20,0:07:54.24,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(-63.41,165.6)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:54.20,0:07:54.24,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(-22.41,166.6)}I guess...?
-Dialogue: 1,0:07:54.20,0:07:54.24,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(-22.41,166.6)}I guess...?
+Dialogue: 1,0:07:54.20,0:07:54.24,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(-22.41,166.6)}Mondhatjuk...?
+Dialogue: 1,0:07:54.20,0:07:54.24,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(-22.41,166.6)}Mondhatjuk...?
 Dialogue: 0,0:07:54.24,0:07:54.28,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(26.6,165.53)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:54.24,0:07:54.28,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(67.6,166.53)}I guess...?
-Dialogue: 1,0:07:54.24,0:07:54.28,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(67.6,166.53)}I guess...?
+Dialogue: 1,0:07:54.24,0:07:54.28,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(67.6,166.53)}Mondhatjuk...?
+Dialogue: 1,0:07:54.24,0:07:54.28,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(67.6,166.53)}Mondhatjuk...?
 Dialogue: 0,0:07:54.28,0:07:54.32,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(113.81,165.56)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:54.28,0:07:54.32,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(154.81,166.56)}I guess...?
-Dialogue: 1,0:07:54.28,0:07:54.32,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(154.81,166.56)}I guess...?
+Dialogue: 1,0:07:54.28,0:07:54.32,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(154.81,166.56)}Mondhatjuk...?
+Dialogue: 1,0:07:54.28,0:07:54.32,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(154.81,166.56)}Mondhatjuk...?
 Dialogue: 0,0:07:54.32,0:07:54.37,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(197.23,165.56)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:54.32,0:07:54.37,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(238.23,166.56)}I guess...?
-Dialogue: 1,0:07:54.32,0:07:54.37,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(238.23,166.56)}I guess...?
+Dialogue: 1,0:07:54.32,0:07:54.37,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(238.23,166.56)}Mondhatjuk...?
+Dialogue: 1,0:07:54.32,0:07:54.37,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(238.23,166.56)}Mondhatjuk...?
 Dialogue: 0,0:07:54.37,0:07:54.41,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(275.74,165.49)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:54.37,0:07:54.41,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(-145.09,355.08)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:54.37,0:07:54.41,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(316.74,166.49)}I guess...?
-Dialogue: 1,0:07:54.37,0:07:54.41,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(316.74,166.49)}I guess...?
-Dialogue: 1,0:07:54.37,0:07:54.41,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(-124.09,353.08)}I've been lonely.
-Dialogue: 1,0:07:54.37,0:07:54.41,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(-124.09,353.08)}I've been lonely.
+Dialogue: 1,0:07:54.37,0:07:54.41,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(316.74,166.49)}Mondhatjuk...?
+Dialogue: 1,0:07:54.37,0:07:54.41,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(316.74,166.49)}Mondhatjuk...?
+Dialogue: 1,0:07:54.37,0:07:54.41,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(-124.09,353.08)}Magányos vagyok.
+Dialogue: 1,0:07:54.37,0:07:54.41,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(-124.09,353.08)}Magányos vagyok.
 Dialogue: 0,0:07:54.41,0:07:54.45,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(348.03,165.52)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:54.41,0:07:54.45,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(-53.26,355.1)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:54.41,0:07:54.45,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(389.03,166.52)}I guess...?
-Dialogue: 1,0:07:54.41,0:07:54.45,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(389.03,166.52)}I guess...?
-Dialogue: 1,0:07:54.41,0:07:54.45,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(-32.26,353.1)}I've been lonely.
-Dialogue: 1,0:07:54.41,0:07:54.45,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(-32.26,353.1)}I've been lonely.
+Dialogue: 1,0:07:54.41,0:07:54.45,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(389.03,166.52)}Mondhatjuk...?
+Dialogue: 1,0:07:54.41,0:07:54.45,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(389.03,166.52)}Mondhatjuk...?
+Dialogue: 1,0:07:54.41,0:07:54.45,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(-32.26,353.1)}Magányos vagyok.
+Dialogue: 1,0:07:54.41,0:07:54.45,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(-32.26,353.1)}Magányos vagyok.
 Dialogue: 0,0:07:54.45,0:07:54.49,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(412.76,165.52)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:54.45,0:07:54.49,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(36.76,355.07)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:54.45,0:07:54.49,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(453.76,166.52)}I guess...?
-Dialogue: 1,0:07:54.45,0:07:54.49,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(453.76,166.52)}I guess...?
-Dialogue: 1,0:07:54.45,0:07:54.49,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(57.76,353.07)}I've been lonely.
-Dialogue: 1,0:07:54.45,0:07:54.49,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(57.76,353.07)}I've been lonely.
+Dialogue: 1,0:07:54.45,0:07:54.49,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(453.76,166.52)}Mondhatjuk...?
+Dialogue: 1,0:07:54.45,0:07:54.49,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(453.76,166.52)}Mondhatjuk...?
+Dialogue: 1,0:07:54.45,0:07:54.49,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(57.76,353.07)}Magányos vagyok.
+Dialogue: 1,0:07:54.45,0:07:54.49,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(57.76,353.07)}Magányos vagyok.
 Dialogue: 0,0:07:54.49,0:07:54.53,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(468.72,165.52)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:54.49,0:07:54.53,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(124.02,355.14)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:54.49,0:07:54.53,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(509.72,166.52)}I guess...?
-Dialogue: 1,0:07:54.49,0:07:54.53,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(509.72,166.52)}I guess...?
-Dialogue: 1,0:07:54.49,0:07:54.53,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(145.02,353.14)}I've been lonely.
-Dialogue: 1,0:07:54.49,0:07:54.53,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(145.02,353.14)}I've been lonely.
+Dialogue: 1,0:07:54.49,0:07:54.53,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(509.72,166.52)}Mondhatjuk...?
+Dialogue: 1,0:07:54.49,0:07:54.53,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(509.72,166.52)}Mondhatjuk...?
+Dialogue: 1,0:07:54.49,0:07:54.53,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(145.02,353.14)}Magányos vagyok.
+Dialogue: 1,0:07:54.49,0:07:54.53,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(145.02,353.14)}Magányos vagyok.
 Dialogue: 0,0:07:54.53,0:07:54.57,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(515.04,165.48)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:54.53,0:07:54.57,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(207.47,355.14)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:54.53,0:07:54.57,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(556.04,166.48)}I guess...?
-Dialogue: 1,0:07:54.53,0:07:54.57,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(556.04,166.48)}I guess...?
-Dialogue: 1,0:07:54.53,0:07:54.57,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(228.47,353.14)}I've been lonely.
-Dialogue: 1,0:07:54.53,0:07:54.57,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(228.47,353.14)}I've been lonely.
+Dialogue: 1,0:07:54.53,0:07:54.57,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(556.04,166.48)}Mondhatjuk...?
+Dialogue: 1,0:07:54.53,0:07:54.57,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(556.04,166.48)}Mondhatjuk...?
+Dialogue: 1,0:07:54.53,0:07:54.57,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(228.47,353.14)}Magányos vagyok.
+Dialogue: 1,0:07:54.53,0:07:54.57,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(228.47,353.14)}Magányos vagyok.
 Dialogue: 0,0:07:54.57,0:07:54.62,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(551.49,165.49)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:54.57,0:07:54.62,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(285.91,355.12)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:54.57,0:07:54.62,vgtext,,0000,0000,0000,,{\an3\bord0\blur4\p1\c&HDBE0D9&\fscx501\fscy66\pos(22.667,575.667)\clip(1.667,203.334,193.333,716.667)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:54.57,0:07:54.62,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(592.49,166.49)}I guess...?
-Dialogue: 1,0:07:54.57,0:07:54.62,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(592.49,166.49)}I guess...?
-Dialogue: 1,0:07:54.57,0:07:54.62,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(306.91,353.12)}I've been lonely.
-Dialogue: 1,0:07:54.57,0:07:54.62,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(306.91,353.12)}I've been lonely.
+Dialogue: 1,0:07:54.57,0:07:54.62,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(592.49,166.49)}Mondhatjuk...?
+Dialogue: 1,0:07:54.57,0:07:54.62,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(592.49,166.49)}Mondhatjuk...?
+Dialogue: 1,0:07:54.57,0:07:54.62,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(306.91,353.12)}Magányos vagyok.
+Dialogue: 1,0:07:54.57,0:07:54.62,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(306.91,353.12)}Magányos vagyok.
 Dialogue: 0,0:07:54.62,0:07:54.66,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(578.14,165.51)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:54.62,0:07:54.66,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(358.16,355.11)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:54.62,0:07:54.66,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(-138.3,539.66)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:54.62,0:07:54.66,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(-124.3,538.89)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:54.62,0:07:54.66,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(-124.3,538.89)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:54.62,0:07:54.66,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(619.14,166.51)}I guess...?
-Dialogue: 1,0:07:54.62,0:07:54.66,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(619.14,166.51)}I guess...?
-Dialogue: 1,0:07:54.62,0:07:54.66,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(379.16,353.12)}I've been lonely.
-Dialogue: 1,0:07:54.62,0:07:54.66,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(379.16,353.12)}I've been lonely.
+Dialogue: 1,0:07:54.62,0:07:54.66,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(-124.3,538.89)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:54.62,0:07:54.66,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(-124.3,538.89)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:54.62,0:07:54.66,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(619.14,166.51)}Mondhatjuk...?
+Dialogue: 1,0:07:54.62,0:07:54.66,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(619.14,166.51)}Mondhatjuk...?
+Dialogue: 1,0:07:54.62,0:07:54.66,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(379.16,353.12)}Magányos vagyok.
+Dialogue: 1,0:07:54.62,0:07:54.66,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(379.16,353.12)}Magányos vagyok.
 Dialogue: 0,0:07:54.66,0:07:54.70,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(595.97,165.49)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:54.66,0:07:54.70,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(422.87,355.12)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:54.66,0:07:54.70,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(-46.39,539.6)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:54.66,0:07:54.70,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(-32.39,538.83)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:54.66,0:07:54.70,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(-32.39,538.83)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:54.66,0:07:54.70,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(636.97,166.49)}I guess...?
-Dialogue: 1,0:07:54.66,0:07:54.70,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(636.97,166.49)}I guess...?
-Dialogue: 1,0:07:54.66,0:07:54.70,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(443.87,353.12)}I've been lonely.
-Dialogue: 1,0:07:54.66,0:07:54.70,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(443.87,353.12)}I've been lonely.
+Dialogue: 1,0:07:54.66,0:07:54.70,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(-32.39,538.83)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:54.66,0:07:54.70,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(-32.39,538.83)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:54.66,0:07:54.70,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(636.97,166.49)}Mondhatjuk...?
+Dialogue: 1,0:07:54.66,0:07:54.70,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(636.97,166.49)}Mondhatjuk...?
+Dialogue: 1,0:07:54.66,0:07:54.70,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(443.87,353.12)}Magányos vagyok.
+Dialogue: 1,0:07:54.66,0:07:54.70,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(443.87,353.12)}Magányos vagyok.
 Dialogue: 0,0:07:54.70,0:07:54.74,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(605.73,165.47)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:54.70,0:07:54.74,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(478.81,355.11)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:54.70,0:07:54.74,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(43.61,539.59)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:54.70,0:07:54.74,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(57.62,538.82)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:54.70,0:07:54.74,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(57.62,538.82)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:54.70,0:07:54.74,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(646.73,166.47)}I guess...?
-Dialogue: 1,0:07:54.70,0:07:54.74,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(646.73,166.47)}I guess...?
-Dialogue: 1,0:07:54.70,0:07:54.74,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(499.81,353.11)}I've been lonely.
-Dialogue: 1,0:07:54.70,0:07:54.74,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(499.81,353.11)}I've been lonely.
+Dialogue: 1,0:07:54.70,0:07:54.74,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(57.62,538.82)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:54.70,0:07:54.74,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(57.62,538.82)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:54.70,0:07:54.74,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(646.73,166.47)}Mondhatjuk...?
+Dialogue: 1,0:07:54.70,0:07:54.74,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(646.73,166.47)}Mondhatjuk...?
+Dialogue: 1,0:07:54.70,0:07:54.74,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(499.81,353.11)}Magányos vagyok.
+Dialogue: 1,0:07:54.70,0:07:54.74,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(499.81,353.11)}Magányos vagyok.
 Dialogue: 0,0:07:54.74,0:07:54.78,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.74,165.47)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:54.74,0:07:54.78,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(525.19,355.1)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:54.74,0:07:54.78,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(130.77,539.56)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:54.74,0:07:54.78,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(144.77,538.79)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:54.74,0:07:54.78,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(144.77,538.79)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:54.74,0:07:54.78,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.74,166.47)}I guess...?
-Dialogue: 1,0:07:54.74,0:07:54.78,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.74,166.47)}I guess...?
-Dialogue: 1,0:07:54.74,0:07:54.78,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(546.19,353.1)}I've been lonely.
-Dialogue: 1,0:07:54.74,0:07:54.78,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(546.19,353.1)}I've been lonely.
+Dialogue: 1,0:07:54.74,0:07:54.78,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(144.77,538.79)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:54.74,0:07:54.78,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(144.77,538.79)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:54.74,0:07:54.78,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.74,166.47)}Mondhatjuk...?
+Dialogue: 1,0:07:54.74,0:07:54.78,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.74,166.47)}Mondhatjuk...?
+Dialogue: 1,0:07:54.74,0:07:54.78,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(546.19,353.1)}Magányos vagyok.
+Dialogue: 1,0:07:54.74,0:07:54.78,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(546.19,353.1)}Magányos vagyok.
 Dialogue: 0,0:07:54.78,0:07:54.82,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(603,165.48)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:54.78,0:07:54.82,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(561.61,355.1)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:54.78,0:07:54.82,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(214.21,539.51)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:54.78,0:07:54.82,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(228.21,538.74)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:54.78,0:07:54.82,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(228.21,538.74)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:54.78,0:07:54.82,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(644,166.48)}I guess...?
-Dialogue: 1,0:07:54.78,0:07:54.82,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(644,166.48)}I guess...?
-Dialogue: 1,0:07:54.78,0:07:54.82,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(582.61,353.1)}I've been lonely.
-Dialogue: 1,0:07:54.78,0:07:54.82,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(582.61,353.1)}I've been lonely.
+Dialogue: 1,0:07:54.78,0:07:54.82,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(228.21,538.74)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:54.78,0:07:54.82,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(228.21,538.74)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:54.78,0:07:54.82,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(644,166.48)}Mondhatjuk...?
+Dialogue: 1,0:07:54.78,0:07:54.82,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(644,166.48)}Mondhatjuk...?
+Dialogue: 1,0:07:54.78,0:07:54.82,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(582.61,353.1)}Magányos vagyok.
+Dialogue: 1,0:07:54.78,0:07:54.82,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(582.61,353.1)}Magányos vagyok.
 Dialogue: 0,0:07:54.82,0:07:54.87,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(588.84,165.44)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:54.82,0:07:54.87,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(588.23,355.09)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:54.82,0:07:54.87,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(292.73,539.53)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:54.82,0:07:54.87,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(306.73,538.77)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:54.82,0:07:54.87,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(306.73,538.77)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:54.82,0:07:54.87,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(629.84,166.44)}I guess...?
-Dialogue: 1,0:07:54.82,0:07:54.87,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(629.84,166.44)}I guess...?
-Dialogue: 1,0:07:54.82,0:07:54.87,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(609.23,353.09)}I've been lonely.
-Dialogue: 1,0:07:54.82,0:07:54.87,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(609.23,353.09)}I've been lonely.
+Dialogue: 1,0:07:54.82,0:07:54.87,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(306.73,538.77)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:54.82,0:07:54.87,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(306.73,538.77)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:54.82,0:07:54.87,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(629.84,166.44)}Mondhatjuk...?
+Dialogue: 1,0:07:54.82,0:07:54.87,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(629.84,166.44)}Mondhatjuk...?
+Dialogue: 1,0:07:54.82,0:07:54.87,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(609.23,353.09)}Magányos vagyok.
+Dialogue: 1,0:07:54.82,0:07:54.87,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(609.23,353.09)}Magányos vagyok.
 Dialogue: 0,0:07:54.87,0:07:54.91,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(570.35,165.47)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:54.87,0:07:54.91,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(606.02,355.1)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:54.87,0:07:54.91,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(365,539.54)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:54.87,0:07:54.91,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(379,538.77)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:54.87,0:07:54.91,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(379,538.77)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:54.87,0:07:54.91,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(611.35,166.47)}I guess...?
-Dialogue: 1,0:07:54.87,0:07:54.91,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(611.35,166.47)}I guess...?
-Dialogue: 1,0:07:54.87,0:07:54.91,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(627.02,353.1)}I've been lonely.
-Dialogue: 1,0:07:54.87,0:07:54.91,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(627.02,353.1)}I've been lonely.
+Dialogue: 1,0:07:54.87,0:07:54.91,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(379,538.77)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:54.87,0:07:54.91,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(379,538.77)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:54.87,0:07:54.91,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(611.35,166.47)}Mondhatjuk...?
+Dialogue: 1,0:07:54.87,0:07:54.91,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(611.35,166.47)}Mondhatjuk...?
+Dialogue: 1,0:07:54.87,0:07:54.91,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(627.02,353.1)}Magányos vagyok.
+Dialogue: 1,0:07:54.87,0:07:54.91,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(627.02,353.1)}Magányos vagyok.
 Dialogue: 0,0:07:54.91,0:07:54.95,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(552.01,165.44)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:54.91,0:07:54.95,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(615.89,355.11)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:54.91,0:07:54.95,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(429.73,539.58)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:54.91,0:07:54.95,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(443.73,538.82)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:54.91,0:07:54.95,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(443.73,538.82)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:54.91,0:07:54.95,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(593.01,166.44)}I guess...?
-Dialogue: 1,0:07:54.91,0:07:54.95,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(593.01,166.44)}I guess...?
-Dialogue: 1,0:07:54.91,0:07:54.95,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(636.89,353.11)}I've been lonely.
-Dialogue: 1,0:07:54.91,0:07:54.95,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(636.89,353.11)}I've been lonely.
+Dialogue: 1,0:07:54.91,0:07:54.95,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(443.73,538.82)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:54.91,0:07:54.95,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(443.73,538.82)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:54.91,0:07:54.95,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(593.01,166.44)}Mondhatjuk...?
+Dialogue: 1,0:07:54.91,0:07:54.95,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(593.01,166.44)}Mondhatjuk...?
+Dialogue: 1,0:07:54.91,0:07:54.95,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(636.89,353.11)}Magányos vagyok.
+Dialogue: 1,0:07:54.91,0:07:54.95,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(636.89,353.11)}Magányos vagyok.
 Dialogue: 0,0:07:54.95,0:07:54.99,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(537.8,165.43)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:54.95,0:07:54.99,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.76,355.11)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:54.95,0:07:54.99,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(485.7,539.58)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:54.95,0:07:54.99,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(499.7,538.81)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:54.95,0:07:54.99,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(499.7,538.81)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:54.95,0:07:54.99,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(578.8,166.43)}I guess...?
-Dialogue: 1,0:07:54.95,0:07:54.99,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(578.8,166.43)}I guess...?
-Dialogue: 1,0:07:54.95,0:07:54.99,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.76,353.11)}I've been lonely.
-Dialogue: 1,0:07:54.95,0:07:54.99,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.76,353.11)}I've been lonely.
+Dialogue: 1,0:07:54.95,0:07:54.99,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(499.7,538.81)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:54.95,0:07:54.99,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(499.7,538.81)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:54.95,0:07:54.99,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(578.8,166.43)}Mondhatjuk...?
+Dialogue: 1,0:07:54.95,0:07:54.99,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(578.8,166.43)}Mondhatjuk...?
+Dialogue: 1,0:07:54.95,0:07:54.99,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.76,353.11)}Magányos vagyok.
+Dialogue: 1,0:07:54.95,0:07:54.99,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.76,353.11)}Magányos vagyok.
 Dialogue: 0,0:07:54.99,0:07:55.03,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(532.1,165.41)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:54.99,0:07:55.03,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(613.06,355.1)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:54.99,0:07:55.03,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(531.99,539.51)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:54.99,0:07:55.03,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(545.99,538.74)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:54.99,0:07:55.03,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(545.99,538.74)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:54.99,0:07:55.03,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(573.1,166.41)}I guess...?
-Dialogue: 1,0:07:54.99,0:07:55.03,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(573.1,166.41)}I guess...?
-Dialogue: 1,0:07:54.99,0:07:55.03,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(634.06,353.1)}I've been lonely.
-Dialogue: 1,0:07:54.99,0:07:55.03,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(634.06,353.1)}I've been lonely.
+Dialogue: 1,0:07:54.99,0:07:55.03,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(545.99,538.74)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:54.99,0:07:55.03,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(545.99,538.74)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:54.99,0:07:55.03,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(573.1,166.41)}Mondhatjuk...?
+Dialogue: 1,0:07:54.99,0:07:55.03,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(573.1,166.41)}Mondhatjuk...?
+Dialogue: 1,0:07:54.99,0:07:55.03,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(634.06,353.1)}Magányos vagyok.
+Dialogue: 1,0:07:54.99,0:07:55.03,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(634.06,353.1)}Magányos vagyok.
 Dialogue: 0,0:07:55.03,0:07:55.07,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(540.09,165.43)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.03,0:07:55.07,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(598.85,355.08)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.03,0:07:55.07,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(568.43,539.5)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:55.03,0:07:55.07,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(582.43,538.73)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.03,0:07:55.07,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(582.43,538.73)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.03,0:07:55.07,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(581.09,166.43)}I guess...?
-Dialogue: 1,0:07:55.03,0:07:55.07,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(581.09,166.43)}I guess...?
-Dialogue: 1,0:07:55.03,0:07:55.07,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(619.85,353.08)}I've been lonely.
-Dialogue: 1,0:07:55.03,0:07:55.07,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(619.85,353.08)}I've been lonely.
+Dialogue: 1,0:07:55.03,0:07:55.07,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(582.43,538.73)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.03,0:07:55.07,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(582.43,538.73)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.03,0:07:55.07,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(581.09,166.43)}Mondhatjuk...?
+Dialogue: 1,0:07:55.03,0:07:55.07,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(581.09,166.43)}Mondhatjuk...?
+Dialogue: 1,0:07:55.03,0:07:55.07,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(619.85,353.08)}Magányos vagyok.
+Dialogue: 1,0:07:55.03,0:07:55.07,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(619.85,353.08)}Magányos vagyok.
 Dialogue: 0,0:07:55.07,0:07:55.12,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(559.1,165.42)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.07,0:07:55.12,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(580.52,355.11)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.07,0:07:55.12,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(595.19,539.52)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:55.07,0:07:55.12,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(609.19,538.75)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.07,0:07:55.12,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(609.19,538.75)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.07,0:07:55.12,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(600.1,166.42)}I guess...?
-Dialogue: 1,0:07:55.07,0:07:55.12,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(600.1,166.42)}I guess...?
-Dialogue: 1,0:07:55.07,0:07:55.12,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(601.52,353.11)}I've been lonely.
-Dialogue: 1,0:07:55.07,0:07:55.12,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(601.52,353.11)}I've been lonely.
+Dialogue: 1,0:07:55.07,0:07:55.12,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(609.19,538.75)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.07,0:07:55.12,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(609.19,538.75)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.07,0:07:55.12,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(600.1,166.42)}Mondhatjuk...?
+Dialogue: 1,0:07:55.07,0:07:55.12,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(600.1,166.42)}Mondhatjuk...?
+Dialogue: 1,0:07:55.07,0:07:55.12,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(601.52,353.11)}Magányos vagyok.
+Dialogue: 1,0:07:55.07,0:07:55.12,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(601.52,353.11)}Magányos vagyok.
 Dialogue: 0,0:07:55.12,0:07:55.16,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(581.74,165.42)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.12,0:07:55.16,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(562.04,355.1)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.12,0:07:55.16,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(612.92,539.52)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:55.12,0:07:55.16,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(626.92,538.75)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.12,0:07:55.16,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(626.92,538.75)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.12,0:07:55.16,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(622.74,166.42)}I guess...?
-Dialogue: 1,0:07:55.12,0:07:55.16,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(622.74,166.42)}I guess...?
-Dialogue: 1,0:07:55.12,0:07:55.16,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(583.04,353.1)}I've been lonely.
-Dialogue: 1,0:07:55.12,0:07:55.16,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(583.04,353.1)}I've been lonely.
+Dialogue: 1,0:07:55.12,0:07:55.16,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(626.92,538.75)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.12,0:07:55.16,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(626.92,538.75)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.12,0:07:55.16,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(622.74,166.42)}Mondhatjuk...?
+Dialogue: 1,0:07:55.12,0:07:55.16,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(622.74,166.42)}Mondhatjuk...?
+Dialogue: 1,0:07:55.12,0:07:55.16,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(583.04,353.1)}Magányos vagyok.
+Dialogue: 1,0:07:55.12,0:07:55.16,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(583.04,353.1)}Magányos vagyok.
 Dialogue: 0,0:07:55.16,0:07:55.20,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(600.85,165.37)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.16,0:07:55.20,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(547.94,355.11)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.16,0:07:55.20,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(622.71,539.54)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:55.16,0:07:55.20,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(636.71,538.77)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.16,0:07:55.20,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(636.71,538.77)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.16,0:07:55.20,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(641.85,166.37)}I guess...?
-Dialogue: 1,0:07:55.16,0:07:55.20,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(641.85,166.37)}I guess...?
-Dialogue: 1,0:07:55.16,0:07:55.20,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(568.94,353.11)}I've been lonely.
-Dialogue: 1,0:07:55.16,0:07:55.20,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(568.94,353.11)}I've been lonely.
+Dialogue: 1,0:07:55.16,0:07:55.20,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(636.71,538.77)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.16,0:07:55.20,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(636.71,538.77)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.16,0:07:55.20,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(641.85,166.37)}Mondhatjuk...?
+Dialogue: 1,0:07:55.16,0:07:55.20,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(641.85,166.37)}Mondhatjuk...?
+Dialogue: 1,0:07:55.16,0:07:55.20,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(568.94,353.11)}Magányos vagyok.
+Dialogue: 1,0:07:55.16,0:07:55.20,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(568.94,353.11)}Magányos vagyok.
 Dialogue: 0,0:07:55.20,0:07:55.24,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.8,165.38)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.20,0:07:55.24,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(542.22,355.1)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.20,0:07:55.24,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.7,539.52)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:55.20,0:07:55.24,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.7,538.75)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.20,0:07:55.24,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.7,538.75)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.20,0:07:55.24,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.8,166.38)}I guess...?
-Dialogue: 1,0:07:55.20,0:07:55.24,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.8,166.38)}I guess...?
-Dialogue: 1,0:07:55.20,0:07:55.24,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(563.22,353.1)}I've been lonely.
-Dialogue: 1,0:07:55.20,0:07:55.24,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(563.22,353.1)}I've been lonely.
+Dialogue: 1,0:07:55.20,0:07:55.24,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.7,538.75)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.20,0:07:55.24,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.7,538.75)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.20,0:07:55.24,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.8,166.38)}Mondhatjuk...?
+Dialogue: 1,0:07:55.20,0:07:55.24,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.8,166.38)}Mondhatjuk...?
+Dialogue: 1,0:07:55.20,0:07:55.24,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(563.22,353.1)}Magányos vagyok.
+Dialogue: 1,0:07:55.20,0:07:55.24,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(563.22,353.1)}Magányos vagyok.
 Dialogue: 0,0:07:55.24,0:07:55.28,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(605.64,165.36)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.24,0:07:55.28,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(550.17,355.1)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.24,0:07:55.28,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(620.05,539.48)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:55.24,0:07:55.28,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(634.05,538.71)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.24,0:07:55.28,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(634.05,538.71)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.24,0:07:55.28,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(646.64,166.36)}I guess...?
-Dialogue: 1,0:07:55.24,0:07:55.28,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(646.64,166.36)}I guess...?
-Dialogue: 1,0:07:55.24,0:07:55.28,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(571.17,353.1)}I've been lonely.
-Dialogue: 1,0:07:55.24,0:07:55.28,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(571.17,353.1)}I've been lonely.
+Dialogue: 1,0:07:55.24,0:07:55.28,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(634.05,538.71)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.24,0:07:55.28,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(634.05,538.71)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.24,0:07:55.28,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(646.64,166.36)}Mondhatjuk...?
+Dialogue: 1,0:07:55.24,0:07:55.28,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(646.64,166.36)}Mondhatjuk...?
+Dialogue: 1,0:07:55.24,0:07:55.28,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(571.17,353.1)}Magányos vagyok.
+Dialogue: 1,0:07:55.24,0:07:55.28,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(571.17,353.1)}Magányos vagyok.
 Dialogue: 0,0:07:55.28,0:07:55.32,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(598.56,165.36)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.28,0:07:55.32,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(569.23,355.11)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.28,0:07:55.32,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(605.83,539.46)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:55.28,0:07:55.32,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(619.83,538.69)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.28,0:07:55.32,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(619.83,538.69)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.28,0:07:55.32,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.56,166.36)}I guess...?
-Dialogue: 1,0:07:55.28,0:07:55.32,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.56,166.36)}I guess...?
-Dialogue: 1,0:07:55.28,0:07:55.32,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(590.23,353.11)}I've been lonely.
-Dialogue: 1,0:07:55.28,0:07:55.32,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(590.23,353.11)}I've been lonely.
+Dialogue: 1,0:07:55.28,0:07:55.32,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(619.83,538.69)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.28,0:07:55.32,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(619.83,538.69)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.28,0:07:55.32,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.56,166.36)}Mondhatjuk...?
+Dialogue: 1,0:07:55.28,0:07:55.32,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.56,166.36)}Mondhatjuk...?
+Dialogue: 1,0:07:55.28,0:07:55.32,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(590.23,353.11)}Magányos vagyok.
+Dialogue: 1,0:07:55.28,0:07:55.32,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(590.23,353.11)}Magányos vagyok.
 Dialogue: 0,0:07:55.32,0:07:55.37,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(591.57,165.36)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.32,0:07:55.37,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(591.9,355.13)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.32,0:07:55.37,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(587.44,539.47)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:55.32,0:07:55.37,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(601.44,538.7)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.32,0:07:55.37,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(601.44,538.7)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.32,0:07:55.37,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(632.57,166.36)}I guess...?
-Dialogue: 1,0:07:55.32,0:07:55.37,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(632.57,166.36)}I guess...?
-Dialogue: 1,0:07:55.32,0:07:55.37,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(612.9,353.13)}I've been lonely.
-Dialogue: 1,0:07:55.32,0:07:55.37,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(612.9,353.13)}I've been lonely.
+Dialogue: 1,0:07:55.32,0:07:55.37,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(601.44,538.7)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.32,0:07:55.37,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(601.44,538.7)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.32,0:07:55.37,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(632.57,166.36)}Mondhatjuk...?
+Dialogue: 1,0:07:55.32,0:07:55.37,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(632.57,166.36)}Mondhatjuk...?
+Dialogue: 1,0:07:55.32,0:07:55.37,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(612.9,353.13)}Magányos vagyok.
+Dialogue: 1,0:07:55.32,0:07:55.37,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(612.9,353.13)}Magányos vagyok.
 Dialogue: 0,0:07:55.37,0:07:55.41,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(588.39,165.35)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.37,0:07:55.41,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(610.79,355.12)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.37,0:07:55.41,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(568.94,539.41)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:55.37,0:07:55.41,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(582.94,538.65)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.37,0:07:55.41,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(582.94,538.65)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.37,0:07:55.41,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(629.39,166.35)}I guess...?
-Dialogue: 1,0:07:55.37,0:07:55.41,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(629.39,166.35)}I guess...?
-Dialogue: 1,0:07:55.37,0:07:55.41,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(631.79,353.12)}I've been lonely.
-Dialogue: 1,0:07:55.37,0:07:55.41,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(631.79,353.12)}I've been lonely.
+Dialogue: 1,0:07:55.37,0:07:55.41,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(582.94,538.65)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.37,0:07:55.41,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(582.94,538.65)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.37,0:07:55.41,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(629.39,166.35)}Mondhatjuk...?
+Dialogue: 1,0:07:55.37,0:07:55.41,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(629.39,166.35)}Mondhatjuk...?
+Dialogue: 1,0:07:55.37,0:07:55.41,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(631.79,353.12)}Magányos vagyok.
+Dialogue: 1,0:07:55.37,0:07:55.41,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(631.79,353.12)}Magányos vagyok.
 Dialogue: 0,0:07:55.41,0:07:55.45,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(593.65,165.33)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.41,0:07:55.45,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.86,355.11)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.41,0:07:55.45,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(554.82,539.45)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:55.41,0:07:55.45,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(568.82,538.68)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.41,0:07:55.45,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(568.82,538.68)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.41,0:07:55.45,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(634.65,166.33)}I guess...?
-Dialogue: 1,0:07:55.41,0:07:55.45,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(634.65,166.33)}I guess...?
-Dialogue: 1,0:07:55.41,0:07:55.45,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.86,353.11)}I've been lonely.
-Dialogue: 1,0:07:55.41,0:07:55.45,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.86,353.11)}I've been lonely.
+Dialogue: 1,0:07:55.41,0:07:55.45,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(568.82,538.68)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.41,0:07:55.45,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(568.82,538.68)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.41,0:07:55.45,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(634.65,166.33)}Mondhatjuk...?
+Dialogue: 1,0:07:55.41,0:07:55.45,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(634.65,166.33)}Mondhatjuk...?
+Dialogue: 1,0:07:55.41,0:07:55.45,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.86,353.11)}Magányos vagyok.
+Dialogue: 1,0:07:55.41,0:07:55.45,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.86,353.11)}Magányos vagyok.
 Dialogue: 0,0:07:55.45,0:07:55.49,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(603.44,165.33)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.45,0:07:55.49,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(615.72,355.1)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.45,0:07:55.49,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(549.14,539.43)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:55.45,0:07:55.49,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(563.14,538.66)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.45,0:07:55.49,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(563.14,538.66)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.45,0:07:55.49,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(644.44,166.33)}I guess...?
-Dialogue: 1,0:07:55.45,0:07:55.49,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(644.44,166.33)}I guess...?
-Dialogue: 1,0:07:55.45,0:07:55.49,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(636.72,353.1)}I've been lonely.
-Dialogue: 1,0:07:55.45,0:07:55.49,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(636.72,353.1)}I've been lonely.
+Dialogue: 1,0:07:55.45,0:07:55.49,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(563.14,538.66)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.45,0:07:55.49,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(563.14,538.66)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.45,0:07:55.49,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(644.44,166.33)}Mondhatjuk...?
+Dialogue: 1,0:07:55.45,0:07:55.49,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(644.44,166.33)}Mondhatjuk...?
+Dialogue: 1,0:07:55.45,0:07:55.49,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(636.72,353.1)}Magányos vagyok.
+Dialogue: 1,0:07:55.45,0:07:55.49,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(636.72,353.1)}Magányos vagyok.
 Dialogue: 0,0:07:55.49,0:07:55.53,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.8,165.32)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.49,0:07:55.53,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(608.7,355.13)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.49,0:07:55.53,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(557.12,539.43)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:55.49,0:07:55.53,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(571.12,538.66)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.49,0:07:55.53,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(571.12,538.66)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.49,0:07:55.53,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.8,166.32)}I guess...?
-Dialogue: 1,0:07:55.49,0:07:55.53,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.8,166.32)}I guess...?
-Dialogue: 1,0:07:55.49,0:07:55.53,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(629.7,353.13)}I've been lonely.
-Dialogue: 1,0:07:55.49,0:07:55.53,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(629.7,353.13)}I've been lonely.
+Dialogue: 1,0:07:55.49,0:07:55.53,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(571.12,538.66)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.49,0:07:55.53,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(571.12,538.66)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.49,0:07:55.53,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.8,166.32)}Mondhatjuk...?
+Dialogue: 1,0:07:55.49,0:07:55.53,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.8,166.32)}Mondhatjuk...?
+Dialogue: 1,0:07:55.49,0:07:55.53,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(629.7,353.13)}Magányos vagyok.
+Dialogue: 1,0:07:55.49,0:07:55.53,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(629.7,353.13)}Magányos vagyok.
 Dialogue: 0,0:07:55.53,0:07:55.57,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.81,165.32)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.53,0:07:55.57,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(601.69,355.13)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.53,0:07:55.57,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(576.1,539.46)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:55.53,0:07:55.57,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(590.1,538.69)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.53,0:07:55.57,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(590.1,538.69)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.53,0:07:55.57,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.81,166.32)}I guess...?
-Dialogue: 1,0:07:55.53,0:07:55.57,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.81,166.32)}I guess...?
-Dialogue: 1,0:07:55.53,0:07:55.57,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(622.69,353.13)}I've been lonely.
-Dialogue: 1,0:07:55.53,0:07:55.57,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(622.69,353.13)}I've been lonely.
+Dialogue: 1,0:07:55.53,0:07:55.57,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(590.1,538.69)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.53,0:07:55.57,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(590.1,538.69)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.53,0:07:55.57,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.81,166.32)}Mondhatjuk...?
+Dialogue: 1,0:07:55.53,0:07:55.57,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.81,166.32)}Mondhatjuk...?
+Dialogue: 1,0:07:55.53,0:07:55.57,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(622.69,353.13)}Magányos vagyok.
+Dialogue: 1,0:07:55.53,0:07:55.57,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(622.69,353.13)}Magányos vagyok.
 Dialogue: 0,0:07:55.57,0:07:55.62,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.81,165.31)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.57,0:07:55.62,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(598.45,355.13)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.57,0:07:55.62,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(598.8,539.45)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:55.57,0:07:55.62,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(612.8,538.68)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.57,0:07:55.62,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(612.8,538.68)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.57,0:07:55.62,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.81,166.31)}I guess...?
-Dialogue: 1,0:07:55.57,0:07:55.62,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.81,166.31)}I guess...?
-Dialogue: 1,0:07:55.57,0:07:55.62,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(619.45,353.13)}I've been lonely.
-Dialogue: 1,0:07:55.57,0:07:55.62,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(619.45,353.13)}I've been lonely.
+Dialogue: 1,0:07:55.57,0:07:55.62,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(612.8,538.68)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.57,0:07:55.62,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(612.8,538.68)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.57,0:07:55.62,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.81,166.31)}Mondhatjuk...?
+Dialogue: 1,0:07:55.57,0:07:55.62,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.81,166.31)}Mondhatjuk...?
+Dialogue: 1,0:07:55.57,0:07:55.62,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(619.45,353.13)}Magányos vagyok.
+Dialogue: 1,0:07:55.57,0:07:55.62,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(619.45,353.13)}Magányos vagyok.
 Dialogue: 0,0:07:55.62,0:07:55.66,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.82,165.31)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.62,0:07:55.66,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(603.74,355.12)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.62,0:07:55.66,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(617.81,539.44)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:55.62,0:07:55.66,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(631.81,538.67)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.62,0:07:55.66,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(631.81,538.67)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.62,0:07:55.66,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.82,166.31)}I guess...?
-Dialogue: 1,0:07:55.62,0:07:55.66,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.82,166.31)}I guess...?
-Dialogue: 1,0:07:55.62,0:07:55.66,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(624.74,353.12)}I've been lonely.
-Dialogue: 1,0:07:55.62,0:07:55.66,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(624.74,353.12)}I've been lonely.
+Dialogue: 1,0:07:55.62,0:07:55.66,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(631.81,538.67)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.62,0:07:55.66,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(631.81,538.67)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.62,0:07:55.66,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.82,166.31)}Mondhatjuk...?
+Dialogue: 1,0:07:55.62,0:07:55.66,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.82,166.31)}Mondhatjuk...?
+Dialogue: 1,0:07:55.62,0:07:55.66,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(624.74,353.12)}Magányos vagyok.
+Dialogue: 1,0:07:55.62,0:07:55.66,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(624.74,353.12)}Magányos vagyok.
 Dialogue: 0,0:07:55.66,0:07:55.70,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(613.57,355.13)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.66,0:07:55.70,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.8,539.45)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:55.66,0:07:55.70,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.8,538.68)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.66,0:07:55.70,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.8,538.68)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.66,0:07:55.70,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(634.57,353.13)}I've been lonely.
-Dialogue: 1,0:07:55.66,0:07:55.70,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(634.57,353.13)}I've been lonely.
+Dialogue: 1,0:07:55.66,0:07:55.70,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.8,538.68)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.66,0:07:55.70,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.8,538.68)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.66,0:07:55.70,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(634.57,353.13)}Magányos vagyok.
+Dialogue: 1,0:07:55.66,0:07:55.70,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(634.57,353.13)}Magányos vagyok.
 Dialogue: 0,0:07:55.66,0:07:55.74,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.82,165.3)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:55.66,0:07:55.74,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.82,166.3)}I guess...?
-Dialogue: 1,0:07:55.66,0:07:55.74,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.82,166.3)}I guess...?
+Dialogue: 1,0:07:55.66,0:07:55.74,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.82,166.3)}Mondhatjuk...?
+Dialogue: 1,0:07:55.66,0:07:55.74,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.82,166.3)}Mondhatjuk...?
 Dialogue: 0,0:07:55.70,0:07:55.74,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(622.59,539.44)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:55.70,0:07:55.74,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(636.59,538.67)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.70,0:07:55.74,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(636.59,538.67)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:55.70,0:07:55.74,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(636.59,538.67)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.70,0:07:55.74,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(636.59,538.67)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:55.70,0:07:55.78,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.86,355.13)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:55.70,0:07:55.83,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.86,353.13)}I've been lonely.
-Dialogue: 1,0:07:55.70,0:07:55.83,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.86,353.13)}I've been lonely.
+Dialogue: 1,0:07:55.70,0:07:55.83,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.86,353.13)}Magányos vagyok.
+Dialogue: 1,0:07:55.70,0:07:55.83,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.86,353.13)}Magányos vagyok.
 Dialogue: 0,0:07:55.74,0:07:55.78,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.83,165.29)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.74,0:07:55.78,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(615.56,539.42)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:55.74,0:07:55.78,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(629.56,538.65)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.74,0:07:55.78,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(629.56,538.65)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.74,0:07:55.78,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.83,166.29)}I guess...?
-Dialogue: 1,0:07:55.74,0:07:55.78,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.83,166.29)}I guess...?
+Dialogue: 1,0:07:55.74,0:07:55.78,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(629.56,538.65)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.74,0:07:55.78,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(629.56,538.65)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.74,0:07:55.78,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.83,166.29)}Mondhatjuk...?
+Dialogue: 1,0:07:55.74,0:07:55.78,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.83,166.29)}Mondhatjuk...?
 Dialogue: 0,0:07:55.78,0:07:55.83,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.86,355.12)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.78,0:07:55.83,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(608.57,539.41)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:55.78,0:07:55.83,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(622.57,538.64)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.78,0:07:55.83,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(622.57,538.64)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:55.78,0:07:55.83,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(622.57,538.64)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.78,0:07:55.83,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(622.57,538.64)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:55.78,0:07:55.87,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.83,165.28)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:55.78,0:07:55.87,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.83,166.28)}I guess...?
-Dialogue: 1,0:07:55.78,0:07:55.87,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.83,166.28)}I guess...?
+Dialogue: 1,0:07:55.78,0:07:55.87,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.83,166.28)}Mondhatjuk...?
+Dialogue: 1,0:07:55.78,0:07:55.87,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.83,166.28)}Mondhatjuk...?
 Dialogue: 0,0:07:55.83,0:07:55.87,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.87,355.12)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.83,0:07:55.87,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(605.35,539.43)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:55.83,0:07:55.87,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(619.35,538.66)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.83,0:07:55.87,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(619.35,538.66)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.83,0:07:55.87,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.87,353.12)}I've been lonely.
-Dialogue: 1,0:07:55.83,0:07:55.87,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.87,353.12)}I've been lonely.
+Dialogue: 1,0:07:55.83,0:07:55.87,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(619.35,538.66)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.83,0:07:55.87,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(619.35,538.66)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.83,0:07:55.87,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.87,353.12)}Magányos vagyok.
+Dialogue: 1,0:07:55.83,0:07:55.87,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.87,353.12)}Magányos vagyok.
 Dialogue: 0,0:07:55.87,0:07:55.91,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.84,165.27)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.87,0:07:55.91,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.86,355.12)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.87,0:07:55.91,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(610.62,539.43)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:55.87,0:07:55.91,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(624.62,538.66)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.87,0:07:55.91,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(624.62,538.66)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.87,0:07:55.91,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.84,166.27)}I guess...?
-Dialogue: 1,0:07:55.87,0:07:55.91,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.84,166.27)}I guess...?
-Dialogue: 1,0:07:55.87,0:07:55.91,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.86,353.12)}I've been lonely.
-Dialogue: 1,0:07:55.87,0:07:55.91,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.86,353.12)}I've been lonely.
+Dialogue: 1,0:07:55.87,0:07:55.91,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(624.62,538.66)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.87,0:07:55.91,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(624.62,538.66)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.87,0:07:55.91,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.84,166.27)}Mondhatjuk...?
+Dialogue: 1,0:07:55.87,0:07:55.91,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.84,166.27)}Mondhatjuk...?
+Dialogue: 1,0:07:55.87,0:07:55.91,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.86,353.12)}Magányos vagyok.
+Dialogue: 1,0:07:55.87,0:07:55.91,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.86,353.12)}Magányos vagyok.
 Dialogue: 0,0:07:55.91,0:07:55.95,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(620.51,539.36)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:55.91,0:07:55.95,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(634.51,538.59)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.91,0:07:55.95,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(634.51,538.59)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:55.91,0:07:55.95,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(634.51,538.59)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.91,0:07:55.95,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(634.51,538.59)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:55.91,0:07:55.99,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.85,165.26)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:55.91,0:07:55.99,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.85,166.26)}I guess...?
-Dialogue: 1,0:07:55.91,0:07:55.99,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.85,166.26)}I guess...?
+Dialogue: 1,0:07:55.91,0:07:55.99,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.85,166.26)}Mondhatjuk...?
+Dialogue: 1,0:07:55.91,0:07:55.99,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.85,166.26)}Mondhatjuk...?
 Dialogue: 0,0:07:55.91,0:07:56.03,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.86,355.13)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:55.91,0:07:56.03,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.86,353.13)}I've been lonely.
-Dialogue: 1,0:07:55.91,0:07:56.03,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.86,353.13)}I've been lonely.
+Dialogue: 1,0:07:55.91,0:07:56.03,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.86,353.13)}Magányos vagyok.
+Dialogue: 1,0:07:55.91,0:07:56.03,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.86,353.13)}Magányos vagyok.
 Dialogue: 0,0:07:55.95,0:07:55.99,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.81,539.38)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:55.95,0:07:55.99,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.81,538.61)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.95,0:07:55.99,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.81,538.61)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:55.95,0:07:55.99,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.81,538.61)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.95,0:07:55.99,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.81,538.61)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:55.99,0:07:56.03,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.85,165.25)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:55.99,0:07:56.03,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.81,539.37)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:55.99,0:07:56.03,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.81,538.6)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.99,0:07:56.03,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.81,538.6)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:55.99,0:07:56.03,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.85,166.25)}I guess...?
-Dialogue: 1,0:07:55.99,0:07:56.03,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.85,166.25)}I guess...?
+Dialogue: 1,0:07:55.99,0:07:56.03,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.81,538.6)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.99,0:07:56.03,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.81,538.6)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:55.99,0:07:56.03,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.85,166.25)}Mondhatjuk...?
+Dialogue: 1,0:07:55.99,0:07:56.03,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.85,166.25)}Mondhatjuk...?
 Dialogue: 0,0:07:56.03,0:07:56.08,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.86,165.25)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:56.03,0:07:56.08,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.81,539.36)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.03,0:07:56.08,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.81,538.59)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:56.03,0:07:56.08,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.81,538.59)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:56.03,0:07:56.08,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.86,166.25)}I guess...?
-Dialogue: 1,0:07:56.03,0:07:56.08,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.86,166.25)}I guess...?
+Dialogue: 1,0:07:56.03,0:07:56.08,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.81,538.59)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:56.03,0:07:56.08,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.81,538.59)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:56.03,0:07:56.08,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.86,166.25)}Mondhatjuk...?
+Dialogue: 1,0:07:56.03,0:07:56.08,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.86,166.25)}Mondhatjuk...?
 Dialogue: 0,0:07:56.03,0:07:56.12,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.87,355.13)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.03,0:07:56.28,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.87,353.13)}I've been lonely.
-Dialogue: 1,0:07:56.03,0:07:56.28,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.87,353.13)}I've been lonely.
+Dialogue: 1,0:07:56.03,0:07:56.28,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.87,353.13)}Magányos vagyok.
+Dialogue: 1,0:07:56.03,0:07:56.28,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.87,353.13)}Magányos vagyok.
 Dialogue: 0,0:07:56.08,0:07:56.12,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.86,165.24)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.08,0:07:56.12,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.82,538.59)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:56.08,0:07:56.12,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.82,538.59)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:56.08,0:07:56.12,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.86,166.24)}I guess...?
-Dialogue: 1,0:07:56.08,0:07:56.12,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.86,166.24)}I guess...?
+Dialogue: 1,0:07:56.08,0:07:56.12,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.82,538.59)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:56.08,0:07:56.12,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.82,538.59)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:56.08,0:07:56.12,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.86,166.24)}Mondhatjuk...?
+Dialogue: 1,0:07:56.08,0:07:56.12,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.86,166.24)}Mondhatjuk...?
 Dialogue: 0,0:07:56.08,0:07:56.20,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.82,539.35)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:56.12,0:07:56.16,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.85,165.24)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:56.12,0:07:56.16,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.87,355.12)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.12,0:07:56.16,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.85,166.24)}I guess...?
-Dialogue: 1,0:07:56.12,0:07:56.16,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.85,166.24)}I guess...?
-Dialogue: 1,0:07:56.12,0:07:56.20,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.82,538.58)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:56.12,0:07:56.20,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.82,538.58)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:56.12,0:07:56.16,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.85,166.24)}Mondhatjuk...?
+Dialogue: 1,0:07:56.12,0:07:56.16,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.85,166.24)}Mondhatjuk...?
+Dialogue: 1,0:07:56.12,0:07:56.20,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.82,538.58)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:56.12,0:07:56.20,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.82,538.58)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:56.16,0:07:56.24,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.86,165.23)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.16,0:07:56.24,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.86,166.23)}I guess...?
-Dialogue: 1,0:07:56.16,0:07:56.24,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.86,166.23)}I guess...?
+Dialogue: 1,0:07:56.16,0:07:56.24,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.86,166.23)}Mondhatjuk...?
+Dialogue: 1,0:07:56.16,0:07:56.24,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.86,166.23)}Mondhatjuk...?
 Dialogue: 0,0:07:56.16,0:07:56.28,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.87,355.13)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:56.20,0:07:56.24,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.83,539.34)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.20,0:07:56.24,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.83,538.57)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:56.20,0:07:56.24,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.83,538.57)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:56.20,0:07:56.24,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.83,538.57)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:56.20,0:07:56.24,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.83,538.57)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:56.24,0:07:56.28,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.84,539.33)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.24,0:07:56.28,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.84,538.56)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:56.24,0:07:56.28,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.84,538.56)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:56.24,0:07:56.28,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.84,538.56)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:56.24,0:07:56.28,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.84,538.56)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:56.24,0:07:56.33,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.87,165.22)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.24,0:07:56.33,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.87,166.22)}I guess...?
-Dialogue: 1,0:07:56.24,0:07:56.33,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.87,166.22)}I guess...?
+Dialogue: 1,0:07:56.24,0:07:56.33,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.87,166.22)}Mondhatjuk...?
+Dialogue: 1,0:07:56.24,0:07:56.33,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.87,166.22)}Mondhatjuk...?
 Dialogue: 0,0:07:56.28,0:07:56.33,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.84,539.32)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.28,0:07:56.33,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.84,538.55)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:56.28,0:07:56.33,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.84,538.55)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:56.28,0:07:56.33,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.84,538.55)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:56.28,0:07:56.33,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.84,538.55)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:56.28,0:07:56.37,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.88,355.12)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.28,0:07:56.37,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.88,353.12)}I've been lonely.
-Dialogue: 1,0:07:56.28,0:07:56.37,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.88,353.12)}I've been lonely.
+Dialogue: 1,0:07:56.28,0:07:56.37,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.88,353.12)}Magányos vagyok.
+Dialogue: 1,0:07:56.28,0:07:56.37,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.88,353.12)}Magányos vagyok.
 Dialogue: 0,0:07:56.33,0:07:56.37,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.84,539.31)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.33,0:07:56.37,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.84,538.54)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:56.33,0:07:56.37,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.84,538.54)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:56.33,0:07:56.37,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.84,538.54)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:56.33,0:07:56.37,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.84,538.54)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:56.33,0:07:56.41,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.87,165.21)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.33,0:07:56.41,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.87,166.21)}I guess...?
-Dialogue: 1,0:07:56.33,0:07:56.41,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.87,166.21)}I guess...?
+Dialogue: 1,0:07:56.33,0:07:56.41,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.87,166.21)}Mondhatjuk...?
+Dialogue: 1,0:07:56.33,0:07:56.41,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.87,166.21)}Mondhatjuk...?
 Dialogue: 0,0:07:56.37,0:07:56.41,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.84,539.3)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.37,0:07:56.41,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.84,538.53)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:56.37,0:07:56.41,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.84,538.53)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:56.37,0:07:56.41,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.84,538.53)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:56.37,0:07:56.41,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.84,538.53)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:56.37,0:07:56.53,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.89,355.12)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.37,0:07:56.53,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.89,353.12)}I've been lonely.
-Dialogue: 1,0:07:56.37,0:07:56.53,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.89,353.12)}I've been lonely.
+Dialogue: 1,0:07:56.37,0:07:56.53,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.89,353.12)}Magányos vagyok.
+Dialogue: 1,0:07:56.37,0:07:56.53,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.89,353.12)}Magányos vagyok.
 Dialogue: 0,0:07:56.41,0:07:56.45,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.87,165.2)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:56.41,0:07:56.45,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.84,539.29)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.41,0:07:56.45,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.84,538.52)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:56.41,0:07:56.45,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.84,538.52)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:56.41,0:07:56.45,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.87,166.2)}I guess...?
-Dialogue: 1,0:07:56.41,0:07:56.45,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.87,166.2)}I guess...?
+Dialogue: 1,0:07:56.41,0:07:56.45,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.84,538.52)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:56.41,0:07:56.45,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.84,538.52)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:56.41,0:07:56.45,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.87,166.2)}Mondhatjuk...?
+Dialogue: 1,0:07:56.41,0:07:56.45,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.87,166.2)}Mondhatjuk...?
 Dialogue: 0,0:07:56.45,0:07:56.49,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.88,165.2)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:56.45,0:07:56.49,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.85,539.28)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.45,0:07:56.49,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.88,166.2)}I guess...?
-Dialogue: 1,0:07:56.45,0:07:56.49,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.88,166.2)}I guess...?
-Dialogue: 1,0:07:56.45,0:07:56.53,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.85,538.51)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:56.45,0:07:56.53,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.85,538.51)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:56.45,0:07:56.49,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.88,166.2)}Mondhatjuk...?
+Dialogue: 1,0:07:56.45,0:07:56.49,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.88,166.2)}Mondhatjuk...?
+Dialogue: 1,0:07:56.45,0:07:56.53,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.85,538.51)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:56.45,0:07:56.53,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.85,538.51)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:56.49,0:07:56.53,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.85,539.27)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:56.49,0:07:56.58,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.88,165.19)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.49,0:07:56.58,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.88,166.19)}I guess...?
-Dialogue: 1,0:07:56.49,0:07:56.58,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.88,166.19)}I guess...?
+Dialogue: 1,0:07:56.49,0:07:56.58,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.88,166.19)}Mondhatjuk...?
+Dialogue: 1,0:07:56.49,0:07:56.58,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.88,166.19)}Mondhatjuk...?
 Dialogue: 0,0:07:56.53,0:07:56.58,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.85,539.26)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.53,0:07:56.58,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.85,538.49)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:56.53,0:07:56.58,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.85,538.49)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:56.53,0:07:56.58,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.85,538.49)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:56.53,0:07:56.58,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.85,538.49)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:56.53,0:07:56.62,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.89,355.11)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.53,0:07:56.62,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.89,353.11)}I've been lonely.
-Dialogue: 1,0:07:56.53,0:07:56.62,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.89,353.11)}I've been lonely.
+Dialogue: 1,0:07:56.53,0:07:56.62,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.89,353.11)}Magányos vagyok.
+Dialogue: 1,0:07:56.53,0:07:56.62,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.89,353.11)}Magányos vagyok.
 Dialogue: 0,0:07:56.58,0:07:56.62,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.88,165.18)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.58,0:07:56.62,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.86,538.49)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:56.58,0:07:56.62,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.86,538.49)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:56.58,0:07:56.62,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.88,166.18)}I guess...?
-Dialogue: 1,0:07:56.58,0:07:56.62,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.88,166.18)}I guess...?
+Dialogue: 1,0:07:56.58,0:07:56.62,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.86,538.49)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:56.58,0:07:56.62,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.86,538.49)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:56.58,0:07:56.62,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.88,166.18)}Mondhatjuk...?
+Dialogue: 1,0:07:56.58,0:07:56.62,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.88,166.18)}Mondhatjuk...?
 Dialogue: 0,0:07:56.58,0:07:56.66,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.86,539.25)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:56.62,0:07:56.66,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.89,165.18)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.62,0:07:56.66,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.86,538.48)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:56.62,0:07:56.66,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.86,538.48)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:56.62,0:07:56.66,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.89,166.18)}I guess...?
-Dialogue: 1,0:07:56.62,0:07:56.66,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.89,166.18)}I guess...?
+Dialogue: 1,0:07:56.62,0:07:56.66,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.86,538.48)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:56.62,0:07:56.66,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.86,538.48)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:56.62,0:07:56.66,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.89,166.18)}Mondhatjuk...?
+Dialogue: 1,0:07:56.62,0:07:56.66,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.89,166.18)}Mondhatjuk...?
 Dialogue: 0,0:07:56.62,0:07:56.74,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.9,355.11)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.62,0:07:56.78,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.9,353.11)}I've been lonely.
-Dialogue: 1,0:07:56.62,0:07:56.78,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.9,353.11)}I've been lonely.
+Dialogue: 1,0:07:56.62,0:07:56.78,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.9,353.11)}Magányos vagyok.
+Dialogue: 1,0:07:56.62,0:07:56.78,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.9,353.11)}Magányos vagyok.
 Dialogue: 0,0:07:56.66,0:07:56.70,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.87,539.24)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.66,0:07:56.70,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.87,538.47)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:56.66,0:07:56.70,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.87,538.47)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:56.66,0:07:56.70,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.87,538.47)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:56.66,0:07:56.70,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.87,538.47)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:56.66,0:07:56.74,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.89,165.17)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.66,0:07:56.74,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.89,166.17)}I guess...?
-Dialogue: 1,0:07:56.66,0:07:56.74,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.89,166.17)}I guess...?
+Dialogue: 1,0:07:56.66,0:07:56.74,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.89,166.17)}Mondhatjuk...?
+Dialogue: 1,0:07:56.66,0:07:56.74,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.89,166.17)}Mondhatjuk...?
 Dialogue: 0,0:07:56.70,0:07:56.74,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.87,539.23)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.70,0:07:56.74,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.87,538.46)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:56.70,0:07:56.74,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.87,538.46)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:56.70,0:07:56.74,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.87,538.46)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:56.70,0:07:56.74,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.87,538.46)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:56.74,0:07:56.78,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.88,539.22)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.74,0:07:56.78,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.88,538.45)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:56.74,0:07:56.78,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.88,538.45)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:56.74,0:07:56.78,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.88,538.45)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:56.74,0:07:56.78,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.88,538.45)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:56.74,0:07:56.87,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.9,355.1)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:56.74,0:07:56.91,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.9,165.16)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.74,0:07:56.91,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.9,166.16)}I guess...?
-Dialogue: 1,0:07:56.74,0:07:56.91,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.9,166.16)}I guess...?
+Dialogue: 1,0:07:56.74,0:07:56.91,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.9,166.16)}Mondhatjuk...?
+Dialogue: 1,0:07:56.74,0:07:56.91,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.9,166.16)}Mondhatjuk...?
 Dialogue: 0,0:07:56.78,0:07:56.83,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.88,539.21)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.78,0:07:56.83,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.88,538.44)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:56.78,0:07:56.83,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.88,538.44)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:56.78,0:07:56.87,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.9,353.1)}I've been lonely.
-Dialogue: 1,0:07:56.78,0:07:56.87,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.9,353.1)}I've been lonely.
+Dialogue: 1,0:07:56.78,0:07:56.83,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.88,538.44)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:56.78,0:07:56.83,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.88,538.44)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:56.78,0:07:56.87,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.9,353.1)}Magányos vagyok.
+Dialogue: 1,0:07:56.78,0:07:56.87,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.9,353.1)}Magányos vagyok.
 Dialogue: 0,0:07:56.83,0:07:56.87,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.89,539.2)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.83,0:07:56.87,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.89,538.43)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:56.83,0:07:56.87,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.89,538.43)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:56.83,0:07:56.87,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.89,538.43)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:56.83,0:07:56.87,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.89,538.43)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:56.87,0:07:56.91,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.9,539.19)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.87,0:07:56.91,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.9,538.42)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:56.87,0:07:56.91,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.9,538.42)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:56.87,0:07:56.91,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.9,538.42)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:56.87,0:07:56.91,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.9,538.42)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:56.87,0:07:56.99,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.91,355.1)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.87,0:07:56.99,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.91,353.1)}I've been lonely.
-Dialogue: 1,0:07:56.87,0:07:56.99,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.91,353.1)}I've been lonely.
+Dialogue: 1,0:07:56.87,0:07:56.99,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.91,353.1)}Magányos vagyok.
+Dialogue: 1,0:07:56.87,0:07:56.99,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.91,353.1)}Magányos vagyok.
 Dialogue: 0,0:07:56.91,0:07:56.95,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.9,539.18)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.91,0:07:56.95,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.9,538.41)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:56.91,0:07:56.95,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.9,538.41)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:56.91,0:07:56.95,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.9,538.41)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:56.91,0:07:56.95,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.9,538.41)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:56.91,0:07:56.99,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.91,165.15)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.91,0:07:56.99,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.91,166.15)}I guess...?
-Dialogue: 1,0:07:56.91,0:07:56.99,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.91,166.15)}I guess...?
+Dialogue: 1,0:07:56.91,0:07:56.99,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.91,166.15)}Mondhatjuk...?
+Dialogue: 1,0:07:56.91,0:07:56.99,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.91,166.15)}Mondhatjuk...?
 Dialogue: 0,0:07:56.95,0:07:56.99,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.9,539.17)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.95,0:07:56.99,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.9,538.4)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:56.95,0:07:56.99,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.9,538.4)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:56.95,0:07:56.99,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.9,538.4)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:56.95,0:07:56.99,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.9,538.4)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:56.99,0:07:57.03,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.92,165.15)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:56.99,0:07:57.03,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.91,539.16)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.99,0:07:57.03,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.91,538.39)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:56.99,0:07:57.03,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.91,538.39)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:56.99,0:07:57.03,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.92,166.15)}I guess...?
-Dialogue: 1,0:07:56.99,0:07:57.03,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.92,166.15)}I guess...?
+Dialogue: 1,0:07:56.99,0:07:57.03,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.91,538.39)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:56.99,0:07:57.03,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.91,538.39)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:56.99,0:07:57.03,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.92,166.15)}Mondhatjuk...?
+Dialogue: 1,0:07:56.99,0:07:57.03,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.92,166.15)}Mondhatjuk...?
 Dialogue: 0,0:07:56.99,0:07:57.08,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.91,355.09)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:56.99,0:07:57.08,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.91,353.09)}I've been lonely.
-Dialogue: 1,0:07:56.99,0:07:57.08,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.91,353.09)}I've been lonely.
+Dialogue: 1,0:07:56.99,0:07:57.08,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.91,353.09)}Magányos vagyok.
+Dialogue: 1,0:07:56.99,0:07:57.08,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.91,353.09)}Magányos vagyok.
 Dialogue: 0,0:07:57.03,0:07:57.08,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.91,539.15)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.03,0:07:57.08,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.91,538.38)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:57.03,0:07:57.08,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.91,538.38)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:57.03,0:07:57.08,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.91,538.38)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:57.03,0:07:57.08,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.91,538.38)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:57.03,0:07:57.12,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.92,165.14)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.03,0:07:57.12,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.92,166.14)}I guess...?
-Dialogue: 1,0:07:57.03,0:07:57.12,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.92,166.14)}I guess...?
-Dialogue: 1,0:07:57.08,0:07:57.12,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.92,538.38)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:57.08,0:07:57.12,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.92,538.38)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:57.03,0:07:57.12,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.92,166.14)}Mondhatjuk...?
+Dialogue: 1,0:07:57.03,0:07:57.12,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.92,166.14)}Mondhatjuk...?
+Dialogue: 1,0:07:57.08,0:07:57.12,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.92,538.38)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:57.08,0:07:57.12,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.92,538.38)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:57.08,0:07:57.16,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.92,355.09)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:57.08,0:07:57.16,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.92,539.14)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.08,0:07:57.16,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.92,353.09)}I've been lonely.
-Dialogue: 1,0:07:57.08,0:07:57.16,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.92,353.09)}I've been lonely.
+Dialogue: 1,0:07:57.08,0:07:57.16,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.92,353.09)}Magányos vagyok.
+Dialogue: 1,0:07:57.08,0:07:57.16,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.92,353.09)}Magányos vagyok.
 Dialogue: 0,0:07:57.12,0:07:57.16,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.92,165.13)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.12,0:07:57.16,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.92,538.37)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:57.12,0:07:57.16,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.92,538.37)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:57.12,0:07:57.16,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.92,166.13)}I guess...?
-Dialogue: 1,0:07:57.12,0:07:57.16,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.92,166.13)}I guess...?
+Dialogue: 1,0:07:57.12,0:07:57.16,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.92,538.37)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:57.12,0:07:57.16,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.92,538.37)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:57.12,0:07:57.16,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.92,166.13)}Mondhatjuk...?
+Dialogue: 1,0:07:57.12,0:07:57.16,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.92,166.13)}Mondhatjuk...?
 Dialogue: 0,0:07:57.16,0:07:57.20,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.92,539.13)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.16,0:07:57.20,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.92,538.36)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:57.16,0:07:57.20,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.92,538.36)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:57.16,0:07:57.20,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.92,538.36)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:57.16,0:07:57.20,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.92,538.36)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:57.16,0:07:57.24,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.93,165.13)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:57.16,0:07:57.24,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.92,355.08)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.16,0:07:57.24,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.93,166.13)}I guess...?
-Dialogue: 1,0:07:57.16,0:07:57.24,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.93,166.13)}I guess...?
-Dialogue: 1,0:07:57.16,0:07:57.24,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.92,353.08)}I've been lonely.
-Dialogue: 1,0:07:57.16,0:07:57.24,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.92,353.08)}I've been lonely.
+Dialogue: 1,0:07:57.16,0:07:57.24,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.93,166.13)}Mondhatjuk...?
+Dialogue: 1,0:07:57.16,0:07:57.24,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.93,166.13)}Mondhatjuk...?
+Dialogue: 1,0:07:57.16,0:07:57.24,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.92,353.08)}Magányos vagyok.
+Dialogue: 1,0:07:57.16,0:07:57.24,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.92,353.08)}Magányos vagyok.
 Dialogue: 0,0:07:57.20,0:07:57.28,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.93,539.12)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.20,0:07:57.28,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.93,538.35)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:57.20,0:07:57.28,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.93,538.35)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:57.20,0:07:57.28,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.93,538.35)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:57.20,0:07:57.28,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.93,538.35)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:57.24,0:07:57.28,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.93,165.12)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.24,0:07:57.28,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.93,166.12)}I guess...?
-Dialogue: 1,0:07:57.24,0:07:57.28,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.93,166.12)}I guess...?
+Dialogue: 1,0:07:57.24,0:07:57.28,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.93,166.12)}Mondhatjuk...?
+Dialogue: 1,0:07:57.24,0:07:57.28,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.93,166.12)}Mondhatjuk...?
 Dialogue: 0,0:07:57.24,0:07:57.33,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.93,355.08)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.24,0:07:57.37,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.93,353.08)}I've been lonely.
-Dialogue: 1,0:07:57.24,0:07:57.37,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.93,353.08)}I've been lonely.
+Dialogue: 1,0:07:57.24,0:07:57.37,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.93,353.08)}Magányos vagyok.
+Dialogue: 1,0:07:57.24,0:07:57.37,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.93,353.08)}Magányos vagyok.
 Dialogue: 0,0:07:57.28,0:07:57.33,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.93,165.11)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:57.28,0:07:57.33,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.94,539.11)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.28,0:07:57.33,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.94,538.34)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:57.28,0:07:57.33,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.94,538.34)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:57.28,0:07:57.33,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.93,166.11)}I guess...?
-Dialogue: 1,0:07:57.28,0:07:57.33,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.93,166.11)}I guess...?
+Dialogue: 1,0:07:57.28,0:07:57.33,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.94,538.34)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:57.28,0:07:57.33,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.94,538.34)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:57.28,0:07:57.33,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.93,166.11)}Mondhatjuk...?
+Dialogue: 1,0:07:57.28,0:07:57.33,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.93,166.11)}Mondhatjuk...?
 Dialogue: 0,0:07:57.33,0:07:57.37,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.93,355.07)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:57.33,0:07:57.37,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.95,539.11)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.33,0:07:57.37,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.95,538.34)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:57.33,0:07:57.37,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.95,538.34)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:57.33,0:07:57.37,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.95,538.34)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:57.33,0:07:57.37,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.95,538.34)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:57.33,0:07:57.41,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.94,165.11)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.33,0:07:57.41,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.94,166.11)}I guess...?
-Dialogue: 1,0:07:57.33,0:07:57.41,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.94,166.11)}I guess...?
+Dialogue: 1,0:07:57.33,0:07:57.41,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.94,166.11)}Mondhatjuk...?
+Dialogue: 1,0:07:57.33,0:07:57.41,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.94,166.11)}Mondhatjuk...?
 Dialogue: 0,0:07:57.37,0:07:57.41,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.95,539.1)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.37,0:07:57.41,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.95,538.33)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:57.37,0:07:57.41,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.95,538.33)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:57.37,0:07:57.41,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.95,538.33)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:57.37,0:07:57.41,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.95,538.33)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:57.37,0:07:57.54,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.94,355.07)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.37,0:07:57.54,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.94,353.07)}I've been lonely.
-Dialogue: 1,0:07:57.37,0:07:57.54,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.94,353.07)}I've been lonely.
+Dialogue: 1,0:07:57.37,0:07:57.54,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.94,353.07)}Magányos vagyok.
+Dialogue: 1,0:07:57.37,0:07:57.54,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.94,353.07)}Magányos vagyok.
 Dialogue: 0,0:07:57.41,0:07:57.45,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.94,165.1)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:57.41,0:07:57.45,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.96,539.1)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.41,0:07:57.45,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.96,538.33)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:57.41,0:07:57.45,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.96,538.33)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:57.41,0:07:57.45,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.94,166.1)}I guess...?
-Dialogue: 1,0:07:57.41,0:07:57.45,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.94,166.1)}I guess...?
+Dialogue: 1,0:07:57.41,0:07:57.45,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.96,538.33)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:57.41,0:07:57.45,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.96,538.33)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:57.41,0:07:57.45,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.94,166.1)}Mondhatjuk...?
+Dialogue: 1,0:07:57.41,0:07:57.45,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.94,166.1)}Mondhatjuk...?
 Dialogue: 0,0:07:57.45,0:07:57.49,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.95,165.1)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.45,0:07:57.49,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.95,166.1)}I guess...?
-Dialogue: 1,0:07:57.45,0:07:57.49,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.95,166.1)}I guess...?
+Dialogue: 1,0:07:57.45,0:07:57.49,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.95,166.1)}Mondhatjuk...?
+Dialogue: 1,0:07:57.45,0:07:57.49,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.95,166.1)}Mondhatjuk...?
 Dialogue: 0,0:07:57.45,0:07:57.58,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.96,539.09)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.45,0:07:57.58,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.96,538.32)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:57.45,0:07:57.58,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.96,538.32)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:57.45,0:07:57.58,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.96,538.32)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:57.45,0:07:57.58,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.96,538.32)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:57.49,0:07:57.58,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.95,165.09)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.49,0:07:57.58,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.95,166.09)}I guess...?
-Dialogue: 1,0:07:57.49,0:07:57.58,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.95,166.09)}I guess...?
+Dialogue: 1,0:07:57.49,0:07:57.58,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.95,166.09)}Mondhatjuk...?
+Dialogue: 1,0:07:57.49,0:07:57.58,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.95,166.09)}Mondhatjuk...?
 Dialogue: 0,0:07:57.54,0:07:57.58,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.94,355.06)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.54,0:07:57.58,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.94,353.06)}I've been lonely.
-Dialogue: 1,0:07:57.54,0:07:57.58,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.94,353.06)}I've been lonely.
+Dialogue: 1,0:07:57.54,0:07:57.58,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.94,353.06)}Magányos vagyok.
+Dialogue: 1,0:07:57.54,0:07:57.58,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.94,353.06)}Magányos vagyok.
 Dialogue: 0,0:07:57.58,0:07:57.62,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.96,165.08)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.58,0:07:57.62,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.97,538.32)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:57.58,0:07:57.62,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.97,538.32)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:57.58,0:07:57.62,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.96,166.08)}I guess...?
-Dialogue: 1,0:07:57.58,0:07:57.62,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.96,166.08)}I guess...?
+Dialogue: 1,0:07:57.58,0:07:57.62,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.97,538.32)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:57.58,0:07:57.62,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.97,538.32)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:57.58,0:07:57.62,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.96,166.08)}Mondhatjuk...?
+Dialogue: 1,0:07:57.58,0:07:57.62,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.96,166.08)}Mondhatjuk...?
 Dialogue: 0,0:07:57.58,0:07:57.66,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.97,539.08)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:57.58,0:07:57.70,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.95,355.06)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.58,0:07:57.70,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.95,353.06)}I've been lonely.
-Dialogue: 1,0:07:57.58,0:07:57.70,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.95,353.06)}I've been lonely.
-Dialogue: 1,0:07:57.62,0:07:57.66,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.97,538.31)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:57.62,0:07:57.66,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.97,538.31)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:57.58,0:07:57.70,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.95,353.06)}Magányos vagyok.
+Dialogue: 1,0:07:57.58,0:07:57.70,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.95,353.06)}Magányos vagyok.
+Dialogue: 1,0:07:57.62,0:07:57.66,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.97,538.31)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:57.62,0:07:57.66,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.97,538.31)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:57.62,0:07:57.74,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.96,165.07)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.62,0:07:57.74,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.96,166.07)}I guess...?
-Dialogue: 1,0:07:57.62,0:07:57.74,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.96,166.07)}I guess...?
+Dialogue: 1,0:07:57.62,0:07:57.74,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.96,166.07)}Mondhatjuk...?
+Dialogue: 1,0:07:57.62,0:07:57.74,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.96,166.07)}Mondhatjuk...?
 Dialogue: 0,0:07:57.66,0:07:57.74,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.97,539.07)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.66,0:07:57.74,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.97,538.3)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:57.66,0:07:57.74,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.97,538.3)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:57.66,0:07:57.74,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.97,538.3)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:57.66,0:07:57.74,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.97,538.3)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:57.70,0:07:57.87,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.96,355.05)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.70,0:07:57.87,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.96,353.05)}I've been lonely.
-Dialogue: 1,0:07:57.70,0:07:57.87,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.96,353.05)}I've been lonely.
+Dialogue: 1,0:07:57.70,0:07:57.87,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.96,353.05)}Magányos vagyok.
+Dialogue: 1,0:07:57.70,0:07:57.87,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.96,353.05)}Magányos vagyok.
 Dialogue: 0,0:07:57.74,0:07:57.79,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.97,165.06)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.74,0:07:57.79,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.97,166.06)}I guess...?
-Dialogue: 1,0:07:57.74,0:07:57.79,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.97,166.06)}I guess...?
+Dialogue: 1,0:07:57.74,0:07:57.79,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.97,166.06)}Mondhatjuk...?
+Dialogue: 1,0:07:57.74,0:07:57.79,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.97,166.06)}Mondhatjuk...?
 Dialogue: 0,0:07:57.74,0:07:57.87,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.98,539.07)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.74,0:07:57.87,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.98,538.3)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:57.74,0:07:57.87,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.98,538.3)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:57.74,0:07:57.87,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.98,538.3)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:57.74,0:07:57.87,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.98,538.3)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:57.79,0:07:57.83,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.97,165.05)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.79,0:07:57.83,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.97,166.05)}I guess...?
-Dialogue: 1,0:07:57.79,0:07:57.83,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.97,166.05)}I guess...?
+Dialogue: 1,0:07:57.79,0:07:57.83,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.97,166.05)}Mondhatjuk...?
+Dialogue: 1,0:07:57.79,0:07:57.83,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.97,166.05)}Mondhatjuk...?
 Dialogue: 0,0:07:57.83,0:07:57.91,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.98,165.05)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.83,0:07:57.91,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.98,166.05)}I guess...?
-Dialogue: 1,0:07:57.83,0:07:57.91,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.98,166.05)}I guess...?
+Dialogue: 1,0:07:57.83,0:07:57.91,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.98,166.05)}Mondhatjuk...?
+Dialogue: 1,0:07:57.83,0:07:57.91,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.98,166.05)}Mondhatjuk...?
 Dialogue: 0,0:07:57.87,0:07:57.91,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.98,539.06)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.87,0:07:57.95,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.98,538.29)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:57.87,0:07:57.95,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.98,538.29)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:57.87,0:07:57.95,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.98,538.29)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:57.87,0:07:57.95,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.98,538.29)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:57.87,0:07:57.99,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.97,355.04)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.87,0:07:57.99,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.97,353.04)}I've been lonely.
-Dialogue: 1,0:07:57.87,0:07:57.99,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.97,353.04)}I've been lonely.
+Dialogue: 1,0:07:57.87,0:07:57.99,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.97,353.04)}Magányos vagyok.
+Dialogue: 1,0:07:57.87,0:07:57.99,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.97,353.04)}Magányos vagyok.
 Dialogue: 0,0:07:57.91,0:07:57.95,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.98,165.04)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.91,0:07:57.95,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.98,166.04)}I guess...?
-Dialogue: 1,0:07:57.91,0:07:57.95,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.98,166.04)}I guess...?
+Dialogue: 1,0:07:57.91,0:07:57.95,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.98,166.04)}Mondhatjuk...?
+Dialogue: 1,0:07:57.91,0:07:57.95,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.98,166.04)}Mondhatjuk...?
 Dialogue: 0,0:07:57.91,0:07:57.99,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.98,539.05)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.95,0:07:57.99,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.98,538.28)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:57.95,0:07:57.99,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.98,538.28)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:57.95,0:07:57.99,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.98,538.28)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:57.95,0:07:57.99,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.98,538.28)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:57.95,0:07:58.08,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.98,165.03)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.95,0:07:58.08,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.98,166.03)}I guess...?
-Dialogue: 1,0:07:57.95,0:07:58.08,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.98,166.03)}I guess...?
+Dialogue: 1,0:07:57.95,0:07:58.08,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.98,166.03)}Mondhatjuk...?
+Dialogue: 1,0:07:57.95,0:07:58.08,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.98,166.03)}Mondhatjuk...?
 Dialogue: 0,0:07:57.99,0:07:58.04,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.97,355.03)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:57.99,0:07:58.04,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.99,539.05)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:57.99,0:07:58.04,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.99,538.28)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:57.99,0:07:58.04,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.99,538.28)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:57.99,0:07:58.04,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.97,353.03)}I've been lonely.
-Dialogue: 1,0:07:57.99,0:07:58.04,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.97,353.03)}I've been lonely.
+Dialogue: 1,0:07:57.99,0:07:58.04,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.99,538.28)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:57.99,0:07:58.04,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.99,538.28)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:57.99,0:07:58.04,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.97,353.03)}Magányos vagyok.
+Dialogue: 1,0:07:57.99,0:07:58.04,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.97,353.03)}Magányos vagyok.
 Dialogue: 0,0:07:58.04,0:07:58.08,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.98,355.03)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:58.04,0:07:58.12,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.98,353.03)}I've been lonely.
-Dialogue: 1,0:07:58.04,0:07:58.12,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.98,353.03)}I've been lonely.
+Dialogue: 1,0:07:58.04,0:07:58.12,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.98,353.03)}Magányos vagyok.
+Dialogue: 1,0:07:58.04,0:07:58.12,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.98,353.03)}Magányos vagyok.
 Dialogue: 0,0:07:58.04,0:07:58.16,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.99,539.04)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:58.04,0:07:58.16,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.99,538.27)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:58.04,0:07:58.16,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.99,538.27)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:58.04,0:07:58.16,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.99,538.27)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:58.04,0:07:58.16,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.99,538.27)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:58.08,0:07:58.16,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.99,165.02)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:58.08,0:07:58.16,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.98,355.02)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:58.08,0:07:58.16,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.99,166.02)}I guess...?
-Dialogue: 1,0:07:58.08,0:07:58.16,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.99,166.02)}I guess...?
-Dialogue: 1,0:07:58.12,0:07:58.16,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.98,353.02)}I've been lonely.
-Dialogue: 1,0:07:58.12,0:07:58.16,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.98,353.02)}I've been lonely.
+Dialogue: 1,0:07:58.08,0:07:58.16,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.99,166.02)}Mondhatjuk...?
+Dialogue: 1,0:07:58.08,0:07:58.16,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.99,166.02)}Mondhatjuk...?
+Dialogue: 1,0:07:58.12,0:07:58.16,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.98,353.02)}Magányos vagyok.
+Dialogue: 1,0:07:58.12,0:07:58.16,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.98,353.02)}Magányos vagyok.
 Dialogue: 0,0:07:58.16,0:07:58.20,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.99,355.02)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:58.16,0:07:58.20,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.99,539.03)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:58.16,0:07:58.20,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.99,353.02)}I've been lonely.
-Dialogue: 1,0:07:58.16,0:07:58.20,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.99,353.02)}I've been lonely.
+Dialogue: 1,0:07:58.16,0:07:58.20,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.99,353.02)}Magányos vagyok.
+Dialogue: 1,0:07:58.16,0:07:58.20,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.99,353.02)}Magányos vagyok.
 Dialogue: 0,0:07:58.16,0:07:58.24,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(608.99,165.01)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:58.16,0:07:58.24,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.99,538.26)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:58.16,0:07:58.24,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.99,538.26)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:58.16,0:07:58.24,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.99,166.01)}I guess...?
-Dialogue: 1,0:07:58.16,0:07:58.24,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.99,166.01)}I guess...?
+Dialogue: 1,0:07:58.16,0:07:58.24,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.99,538.26)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:58.16,0:07:58.24,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.99,538.26)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:58.16,0:07:58.24,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.99,166.01)}Mondhatjuk...?
+Dialogue: 1,0:07:58.16,0:07:58.24,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(649.99,166.01)}Mondhatjuk...?
 Dialogue: 0,0:07:58.20,0:07:58.29,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.99,355.01)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:58.20,0:07:58.29,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.99,539.02)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:58.20,0:07:58.29,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.99,353.01)}I've been lonely.
-Dialogue: 1,0:07:58.20,0:07:58.29,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.99,353.01)}I've been lonely.
+Dialogue: 1,0:07:58.20,0:07:58.29,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.99,353.01)}Magányos vagyok.
+Dialogue: 1,0:07:58.20,0:07:58.29,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.99,353.01)}Magányos vagyok.
 Dialogue: 0,0:07:58.24,0:07:58.29,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(609,165.01)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:58.24,0:07:58.29,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.99,538.25)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:58.24,0:07:58.29,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.99,538.25)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:58.24,0:07:58.29,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(650,166.01)}I guess...?
-Dialogue: 1,0:07:58.24,0:07:58.29,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(650,166.01)}I guess...?
+Dialogue: 1,0:07:58.24,0:07:58.29,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.99,538.25)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:58.24,0:07:58.29,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.99,538.25)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:58.24,0:07:58.29,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(650,166.01)}Mondhatjuk...?
+Dialogue: 1,0:07:58.24,0:07:58.29,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(650,166.01)}Mondhatjuk...?
 Dialogue: 0,0:07:58.29,0:07:58.37,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(619,355)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:58.29,0:07:58.37,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(640,353)}I've been lonely.
-Dialogue: 1,0:07:58.29,0:07:58.37,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(640,353)}I've been lonely.
+Dialogue: 1,0:07:58.29,0:07:58.37,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(640,353)}Magányos vagyok.
+Dialogue: 1,0:07:58.29,0:07:58.37,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(640,353)}Magányos vagyok.
 Dialogue: 0,0:07:58.29,0:07:58.95,FuckingWhy,,0000,0000,0000,,{\fad(0,1000)\frz0\an5\bord0\blur4\p1\fscx448\fscy70\c&HE7E6DD&\pos(609,165)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:07:58.29,0:07:58.95,vgtext,,0000,0000,0000,,{\fad(0,1000)\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(625.99,539.01)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:58.29,0:07:58.95,vgtext,,0000,0000,0000,,{\fad(0,1000)\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.99,538.24)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:58.29,0:07:58.95,vgtext,,0000,0000,0000,,{\fad(0,1000)\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.99,538.24)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:58.29,0:07:58.95,vgtext,,0000,0000,0000,,{\fad(0,1000)\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(650,166)}I guess...?
-Dialogue: 1,0:07:58.29,0:07:58.95,vgtext,,0000,0000,0000,,{\fad(0,1000)\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(650,166)}I guess...?
+Dialogue: 1,0:07:58.29,0:07:58.95,vgtext,,0000,0000,0000,,{\fad(0,1000)\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(639.99,538.24)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:58.29,0:07:58.95,vgtext,,0000,0000,0000,,{\fad(0,1000)\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(639.99,538.24)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:58.29,0:07:58.95,vgtext,,0000,0000,0000,,{\fad(0,1000)\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(650,166)}Mondhatjuk...?
+Dialogue: 1,0:07:58.29,0:07:58.95,vgtext,,0000,0000,0000,,{\fad(0,1000)\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(650,166)}Mondhatjuk...?
 Dialogue: 0,0:07:58.33,0:07:58.37,vgtext,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HDBE0D9&\pos(626,539)\fscx501\fscy66}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:58.33,0:07:58.37,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(640,538.23)\c&H524641&}Say nothing.
-Dialogue: 1,0:07:58.33,0:07:58.37,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(640,538.23)\c&H524641&}Say nothing.
+Dialogue: 1,0:07:58.33,0:07:58.37,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\pos(640,538.23)\c&H524641&}Ne válaszolj.
+Dialogue: 1,0:07:58.33,0:07:58.37,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\pos(640,538.23)\c&H524641&}Ne válaszolj.
 Dialogue: 0,0:07:58.41,0:07:58.45,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.99,355.02)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:58.41,0:07:58.45,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.99,353.02)}I've been lonely.
-Dialogue: 1,0:07:58.41,0:07:58.45,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.99,353.02)}I've been lonely.
+Dialogue: 1,0:07:58.41,0:07:58.45,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.99,353.02)}Magányos vagyok.
+Dialogue: 1,0:07:58.41,0:07:58.45,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.99,353.02)}Magányos vagyok.
 Dialogue: 0,0:07:58.49,0:07:58.54,FuckingWhy,,0000,0000,0000,,{\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.99,355.02)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:58.49,0:07:58.54,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.99,353.02)}I've been lonely.
-Dialogue: 1,0:07:58.49,0:07:58.54,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.99,353.02)}I've been lonely.
+Dialogue: 1,0:07:58.49,0:07:58.54,vgtext,,0000,0000,0000,,{\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.99,353.02)}Magányos vagyok.
+Dialogue: 1,0:07:58.49,0:07:58.54,vgtext,,0000,0000,0000,,{\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.99,353.02)}Magányos vagyok.
 Dialogue: 0,0:07:58.62,0:07:59.45,FuckingWhy,,0000,0000,0000,,{\fad(50,150)\frz0\an5\bord0\blur4\p1\c&HE5DEE4&\fscx473\fscy76\pos(618.99,355.02)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:07:58.62,0:07:59.45,vgtext,,0000,0000,0000,,{\fad(50,150)\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.99,353.02)}I've been lonely.
-Dialogue: 1,0:07:58.62,0:07:59.45,vgtext,,0000,0000,0000,,{\fad(50,150)\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.99,353.02)}I've been lonely.
-Dialogue: 0,0:08:00.29,0:08:03.96,EpTitle,,0000,0000,0030,,{\2a&HFF&\blur0.8\bord0\fs36\fnCentury Gothic\b0\c&H362E32&\K160\pos(776.666,558.111)}Sorry. Me, too...
-Dialogue: 5,0:08:00.30,0:08:03.92,Default,,0000,0000,0030,,{\i1}Sorry. Me, too... I've missed you.
-Dialogue: 0,0:08:02.46,0:08:03.96,EpTitle,,0000,0000,0030,,{\2a&HFF&\blur0.8\bord0\fs36\fnCentury Gothic\b0\c&H362E32&\K120\pos(781.667,609.111)}I've missed you.
-Dialogue: 5,0:08:05.22,0:08:08.09,Default,,0000,0000,0000,,Perfect. The conversation is going just as I planned.
-Dialogue: 5,0:08:08.44,0:08:09.93,Default,,0000,0000,0008,,Now I just...
+Dialogue: 1,0:07:58.62,0:07:59.45,vgtext,,0000,0000,0000,,{\fad(50,150)\frz0\shad2\4a&H90&\1a&H20&\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.99,353.02)}Magányos vagyok.
+Dialogue: 1,0:07:58.62,0:07:59.45,vgtext,,0000,0000,0000,,{\fad(50,150)\frz0\blur0.9\bord0\an5\fscx170\fscy170\c&H524641&\pos(639.99,353.02)}Magányos vagyok.
+Dialogue: 0,0:08:00.29,0:08:03.96,EpTitle,,0000,0000,0030,,{\2a&HFF&\blur0.8\bord0\fs36\fnCentury Gothic\b0\c&H362E32&\K160\pos(776.666,558.111)}Pardon, pardon. Én...
+Dialogue: 5,0:08:00.30,0:08:03.92,Default,,0000,0000,0030,,{\i1}Pardon, pardon. Én... Nekem is hiányoztál.
+Dialogue: 0,0:08:02.46,0:08:03.96,EpTitle,,0000,0000,0030,,{\2a&HFF&\blur0.8\bord0\fs36\fnCentury Gothic\b0\c&H362E32&\K120\pos(781.667,609.111)}Nekem is hiányoztál.
+Dialogue: 5,0:08:05.22,0:08:08.09,Default,,0000,0000,0000,,Ezaz. A tervnek megfelelően halad a beszélgetés.
+Dialogue: 5,0:08:08.44,0:08:09.93,Default,,0000,0000,0008,,Már csak...
 Dialogue: 0,0:08:08.59,0:08:09.96,Game,,0000,0000,0000,,{\t(0,355,\alpha&HFF&)\t(396,688,\alpha&H00&)\t(980,1220,\alpha&HFF&)\t(1355,1355,\alpha&H90&)\fsp2\blur0.6\bord5\fscx90\fscy90\3c&HEBF0FC&\1c&HEBF0FC&\org(576.668,580.001)\pos(545,580)}Rub{\frz350}!{I've been getting the wrong kind of backrubs}
 Dialogue: 1,0:08:08.59,0:08:09.96,Game,,0000,0000,0000,,{\t(0,355,\alpha&HFF&)\t(396,688,\alpha&H00&)\t(980,1220,\alpha&HFF&)\t(1355,1355,\alpha&H90&)\fsp2\blur0.6\bord3\fscx90\fscy90\3c&HAA96DB&\1c&HAA96DB&\org(576.668,580.001)\pos(545,580)}Rub{\frz350}!
 Dialogue: 2,0:08:08.59,0:08:09.96,Game,,0000,0000,0000,,{\t(0,355,\alpha&HFF&)\t(396,688,\alpha&H00&)\t(980,1220,\alpha&HFF&)\t(1355,1355,\alpha&H90&)\fsp2\bord0\blur0.6\fscx90\fscy90\c&HB4ECEF&\pos(545,580)\org(576.668,580.001)}Rub{\frz350}!
