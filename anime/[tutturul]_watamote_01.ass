@@ -15,7 +15,7 @@ YCbCr Matrix: TV.601
 Audio URI: watamote01_premux.mkv
 Video File: watamote01_premux.mkv
 Video Aspect Ratio: c1.77778
-Video Position: 15581
+Video Position: 27762
 Export Encoding: Unicode (UTF-8)
 Video Zoom: 4
 Audio File: ?video
@@ -3810,70 +3810,70 @@ Dialogue: 2,0:11:10.31,0:11:10.35,Rusty signs,,0000,0000,0000,,{\fscx100\fscy100
 Dialogue: 2,0:11:10.31,0:11:10.35,Rusty signs,,0000,0000,0000,,{\fscx100.15\fscy100.15\frz-0.19\bord0\blur0.7\pos(1002.24,206.13)\c&H9BB7DF&}Exposed forehead
 Dialogue: 2,0:11:10.31,0:11:10.35,Rusty signs,,0000,0000,0000,,{\fscx100.15\fscy100.15\frz-0.19\alpha&H60&\bord0\blur0.7\c&H9BB7DF&\pos(1004.74,207.39)}Exposed forehead
 Dialogue: 3,0:11:10.31,0:11:10.35,Rusty signs,,0000,0000,0000,,{\1a&H60&\fscx100\fscy100\frz0\bord0\blur0.7\c&HB2D6E0&\pos(1000.85,629.61)}Duckface
-Dialogue: 5,0:11:14.02,0:11:16.45,Default,,0000,0000,0000,,Oh, it's just you, Sis...
+Dialogue: 5,0:11:14.02,0:11:16.45,Default,,0000,0000,0000,,Ó, csak te vagy az...
 Dialogue: 0,0:11:17.03,0:11:19.95,title,,0000,0000,0000,,{\fad(935,0)\fs40\blur0.78\c&H761DD1&\frz360\fscx58\fscy62\pos(1083.42,523.29)}No Matter {\c&H2695E5&}How {\c&H761DD1&}I Look {\c&H2695E5&}at {\c&H761DD1&} It,\NIt's {\c&H2695E5&}You Guys' {\c&H761DD1&}Fault I'm Not Popular!
 Dialogue: 5,0:11:20.55,0:11:23.41,Default,,0000,0000,0000,,I guess starting with my appearance was the wrong approach.
-Dialogue: 5,0:11:26.61,0:11:31.50,Default,,0000,0000,0000,,{\i1}I need to get back to the basics and\Nfocus on getting my social skills back.
-Dialogue: 5,0:11:32.62,0:11:34.25,Default,,0000,0000,0000,,Hey, wanna talk, lil' bro?
-Dialogue: 5,0:11:36.51,0:11:37.37,Default,,0000,0000,0000,,Huh?
-Dialogue: 5,0:11:38.52,0:11:41.34,Default,,0000,0000,0000,,What do you want from me?
-Dialogue: 5,0:11:43.95,0:11:45.82,Default,,0000,0000,0000,,What're you getting comfortable for?
-Dialogue: 5,0:11:45.82,0:11:48.60,Default,,0000,0000,0000,,Why shouldn't I? I'm your sister.
-Dialogue: 5,0:11:48.60,0:11:50.38,Default,,0000,0000,0000,,You just shouldn't. Go play in traffic.
-Dialogue: 5,0:11:51.50,0:11:53.92,Default,,0000,0000,0000,,Wouldn't you rather me play \N{\i1}Winning Eleven{\i0} with you instead?
-Dialogue: 5,0:11:54.48,0:11:56.85,Default,,0000,0000,0000,,No. Get out.
-Dialogue: 5,0:11:57.97,0:12:00.66,Default,,0000,0000,0000,,By the way, didn't you have practice today?
-Dialogue: 5,0:12:00.66,0:12:03.29,Default,,0000,0000,0000,,We're off because of exams. Get lost already.
-Dialogue: 5,0:12:05.19,0:12:07.92,Default,,0000,0000,0000,,Uh... Let's see...
-Dialogue: 5,0:12:09.44,0:12:11.34,Default,,0000,0000,0000,,Don't just dig through my stuff!
-Dialogue: 5,0:12:11.56,0:12:12.00,Default,,0000,0000,0000,,Go kill yourself!
+Dialogue: 5,0:11:26.61,0:11:31.50,Default,,0000,0000,0000,,{\i1}Vissza kell térnem az alapokhoz és a beszédkésszégemre kell koncentrálnom.
+Dialogue: 5,0:11:32.62,0:11:34.25,Default,,0000,0000,0000,,Héj öcsi, beszélgessünk!
+Dialogue: 5,0:11:36.51,0:11:37.37,Default,,0000,0000,0000,,Hö?
+Dialogue: 5,0:11:38.52,0:11:41.34,Default,,0000,0000,0000,,Mit akarsz?
+Dialogue: 5,0:11:43.95,0:11:45.82,Default,,0000,0000,0000,,Miért ülsz le?
+Dialogue: 5,0:11:45.82,0:11:48.60,Default,,0000,0000,0000,,Miért ne? A nővéred vagyok.
+Dialogue: 5,0:11:48.60,0:11:50.38,Default,,0000,0000,0000,,Mert ne. Menj innen.
+Dialogue: 5,0:11:51.50,0:11:53.92,Default,,0000,0000,0000,,Nem akarsz inkább \N{\i1}Winning Elevent{\i0} játszani velem?
+Dialogue: 5,0:11:54.48,0:11:56.85,Default,,0000,0000,0000,,Nem. Menj ki.
+Dialogue: 5,0:11:57.97,0:12:00.66,Default,,0000,0000,0000,,Egyébként, az edzés?
+Dialogue: 5,0:12:00.66,0:12:03.29,Default,,0000,0000,0000,,Elmaradt a vizsgák miatt. Menj ki.
+Dialogue: 5,0:12:05.19,0:12:07.92,Default,,0000,0000,0000,,Hát... Lássuk csak...
+Dialogue: 5,0:12:09.44,0:12:11.34,Default,,0000,0000,0000,,Ne turkálj!
+Dialogue: 5,0:12:11.56,0:12:12.00,Default,,0000,0000,0000,,A pokolba veled!
 Dialogue: 5,0:12:20.37,0:12:23.04,Default,,0000,0000,0000,,Yeah. I should just kill myself.
-Dialogue: 5,0:12:23.04,0:12:24.64,Default,,0000,0000,0000,,Hold on a minute...
-Dialogue: 5,0:12:25.09,0:12:27.00,Default,,0000,0000,0000,,You just got on my nerves a little...
-Dialogue: 5,0:12:27.00,0:12:28.89,Default,,0000,0000,0000,,So... y-you know...
-Dialogue: 5,0:12:31.28,0:12:33.28,Default,,0000,0000,0000,,You know, I've been thinking...
-Dialogue: 5,0:12:33.28,0:12:37.54,Default,,0000,0000,0000,,My life's difficulty level shot up since I started high school.
-Dialogue: 5,0:12:37.54,0:12:40.34,Default,,0000,0000,0000,,I'm pretty sure I'm on hard mode now.
-Dialogue: 5,0:12:40.34,0:12:45.24,Default,,0000,0000,0000,,By the time I move on to college and join the work force, I'll be on nightmare mode.
-Dialogue: 5,0:12:45.24,0:12:48.69,Default,,0000,0000,0000,,I might as well jump straight to the ending now.
-Dialogue: 5,0:12:48.69,0:12:50.50,Default,,0000,0000,0000,,I'm sorry, okay? Chill out.
-Dialogue: 5,0:12:51.37,0:12:54.04,Default,,0000,0000,0000,,You wanted me for something, right? What's up?
-Dialogue: 5,0:12:54.61,0:12:56.13,Default,,0000,0000,0000,,Talk with me.
-Dialogue: 5,0:12:56.13,0:12:58.17,Default,,0000,0000,0000,,Huh? What're you on about?
-Dialogue: 5,0:12:58.60,0:13:03.26,Default,,0000,0000,0000,,It's just that I haven't had a conversation with anyone lately.
-Dialogue: 5,0:13:03.26,0:13:06.94,Default,,0000,0000,0000,,I can no longer hold a conversation with anyone outside of our family.
-Dialogue: 5,0:13:06.94,0:13:07.59,Default,,0000,0000,0000,,What?
-Dialogue: 5,0:13:07.59,0:13:12.68,Default,,0000,0000,0000,,I need to get rehabilitated back into society! Talk with me for an hour every day!
-Dialogue: 5,0:13:13.74,0:13:15.10,Default,,0000,0000,0000,,{\i1}Maybe when Hell freezes over.
-Dialogue: 5,0:13:15.38,0:13:17.60,Default,,0000,0000,0000,,I don't know what your deal is,
-Dialogue: 5,0:13:17.60,0:13:19.61,Default,,0000,0000,0000,,but why can't you just talk with your friends instead?
-Dialogue: 5,0:13:19.98,0:13:21.85,Default,,0000,0000,0000,,Do you think I have any?
-Dialogue: 5,0:13:21.85,0:13:25.91,Default,,0000,0000,0000,,Everyone's gotta have at least {\i1}one{\i0} friend.
+Dialogue: 5,0:12:23.04,0:12:24.64,Default,,0000,0000,0000,,Csak egy pillanatra...
+Dialogue: 5,0:12:25.09,0:12:27.00,Default,,0000,0000,0000,,Csak egy kicsit az idegeimre mentél...
+Dialogue: 5,0:12:27.00,0:12:28.89,Default,,0000,0000,0000,,Há-Hát... tudod...
+Dialogue: 5,0:12:31.28,0:12:33.28,Default,,0000,0000,0000,,Tudod, gondolkoztam...
+Dialogue: 5,0:12:33.28,0:12:37.54,Default,,0000,0000,0000,,Az életem nehézségi szintje emelkedett mióta középiskolába járok.
+Dialogue: 5,0:12:37.54,0:12:40.34,Default,,0000,0000,0000,,Most biztosan hard mode-on vagyok.
+Dialogue: 5,0:12:40.34,0:12:45.24,Default,,0000,0000,0000,,Mire főiskolás leszek és kilépek a munkaerőpiacra biztosan elérem a nighmare mode-ot.
+Dialogue: 5,0:12:45.24,0:12:48.69,Default,,0000,0000,0000,,Talán már most fel kellene adnom.
+Dialogue: 5,0:12:48.69,0:12:50.50,Default,,0000,0000,0000,,Sajnálom oké? Nyugodj meg.
+Dialogue: 5,0:12:51.37,0:12:54.04,Default,,0000,0000,0000,,Valamit szeretnél kérni igaz? Mi lenne az?
+Dialogue: 5,0:12:54.61,0:12:56.13,Default,,0000,0000,0000,,Beszélj hozzám.
+Dialogue: 5,0:12:56.13,0:12:58.17,Default,,0000,0000,0000,,He? Mivan?
+Dialogue: 5,0:12:58.60,0:13:03.26,Default,,0000,0000,0000,,Csak annyi, hogy egy ideje senkivel sem beszélgettem.
+Dialogue: 5,0:13:03.26,0:13:06.94,Default,,0000,0000,0000,,A családon kívül már senkivel sem tudok beszélni.
+Dialogue: 5,0:13:06.94,0:13:07.59,Default,,0000,0000,0000,,Hogyan?
+Dialogue: 5,0:13:07.59,0:13:12.68,Default,,0000,0000,0000,,Vissza kell rázódnom a társadalomba! Beszélj hozzám egy órácskát naponta!
+Dialogue: 5,0:13:13.74,0:13:15.10,Default,,0000,0000,0000,,{\i1}Inkább kihagyom.
+Dialogue: 5,0:13:15.38,0:13:17.60,Default,,0000,0000,0000,,Nem igazán értem,
+Dialogue: 5,0:13:17.60,0:13:19.61,Default,,0000,0000,0000,,de miért nem a barátaiddal beszélgetsz inkább?
+Dialogue: 5,0:13:19.98,0:13:21.85,Default,,0000,0000,0000,,Szerinted vannak?
+Dialogue: 5,0:13:21.85,0:13:25.91,Default,,0000,0000,0000,,Mindenkinek kell lennie legalább {\i1}egy{\i0} barátjának.
 Dialogue: 5,0:13:25.91,0:13:31.70,Default,,0000,0000,0000,,Well, I'm not a handsome man that's been the forward on the soccer team since my second year like you.
 Dialogue: 5,0:13:32.31,0:13:34.29,Default,,0000,0000,0000,,{\i1}What's up with the respect all of a sudden?
-Dialogue: 5,0:13:34.29,0:13:35.91,Default,,0000,0000,0000,,It's true, right?
+Dialogue: 5,0:13:34.29,0:13:35.91,Default,,0000,0000,0000,,Igaz, nemigaz?
 Dialogue: 5,0:13:35.91,0:13:39.61,Default,,0000,0000,0000,,Every time you score a goal in a soccer game,
 Dialogue: 5,0:13:39.61,0:13:42.24,Default,,0000,0000,0000,,you also score with one of the female managers, right?
 Dialogue: 5,0:13:42.24,0:13:43.29,Default,,0000,0000,0000,,What are you talking about?
-Dialogue: 5,0:13:43.29,0:13:44.21,Default,,0000,0000,0000,,Anyway...
-Dialogue: 5,0:13:44.21,0:13:47.89,Default,,0000,0000,0000,,Are you gonna talk with me or not?
-Dialogue: 5,0:13:47.89,0:13:50.23,Default,,0000,0000,0000,,Hurry up and decide.
+Dialogue: 5,0:13:43.29,0:13:44.21,Default,,0000,0000,0000,,Egyébként...
+Dialogue: 5,0:13:44.21,0:13:47.89,Default,,0000,0000,0000,,Beszélgetsz velem vagy nem?
+Dialogue: 5,0:13:47.89,0:13:50.23,Default,,0000,0000,0000,,Kivele, igyekezz.
 Dialogue: 5,0:13:50.23,0:13:51.39,Default,,0000,0000,0000,,Should I just kill myself now?
-Dialogue: 5,0:13:51.92,0:13:55.31,Default,,0000,0000,0000,,{\i1}If you were my brother, I'd've punched your face by now.
-Dialogue: 5,0:13:57.02,0:13:58.55,Default,,0000,0000,0000,,So for how long?
-Dialogue: 5,0:13:58.55,0:14:01.57,Default,,0000,0000,0000,,Until I get a friend—no, a boyfriend.
-Dialogue: 5,0:14:02.11,0:14:04.92,Default,,0000,0000,0000,,So you're basically sentencing me to life in prison?
-Dialogue: 5,0:14:04.92,0:14:07.74,Default,,0000,0000,0000,,No, I think a month should be enough.
-Dialogue: 5,0:14:08.53,0:14:10.57,Default,,0000,0000,0000,,{\i1}She's surprisingly positive.
-Dialogue: 5,0:14:12.83,0:14:15.83,Default,,0000,0000,0000,,So what do you want to talk about?
-Dialogue: 5,0:14:17.48,0:14:19.13,Default,,0000,0000,0000,,Am I cute?
-Dialogue: 5,0:14:20.94,0:14:22.04,Default,,0000,0000,0000,,You're normal.
-Dialogue: 5,0:14:22.04,0:14:24.03,Default,,0000,0000,0000,,How cute is "normal"?
+Dialogue: 5,0:13:51.92,0:13:55.31,Default,,0000,0000,0000,,{\i1}Ha fiú lennél már rég felpofoztalak volna.
+Dialogue: 5,0:13:57.02,0:13:58.55,Default,,0000,0000,0000,,Meddig fogjuk csinálni?
+Dialogue: 5,0:13:58.55,0:14:01.57,Default,,0000,0000,0000,,Amíg nem lesz barát... nem is, párom!
+Dialogue: 5,0:14:02.11,0:14:04.92,Default,,0000,0000,0000,,Magyarul, az életem végig?
+Dialogue: 5,0:14:04.92,0:14:07.74,Default,,0000,0000,0000,,Nem, azt hiszem egy hónap elég lesz.
+Dialogue: 5,0:14:08.53,0:14:10.57,Default,,0000,0000,0000,,{\i1}Meglepően optimista.
+Dialogue: 5,0:14:12.83,0:14:15.83,Default,,0000,0000,0000,,Akkor, miről akarsz beszélgetni?
+Dialogue: 5,0:14:17.48,0:14:19.13,Default,,0000,0000,0000,,Helyes vagyok?
+Dialogue: 5,0:14:20.94,0:14:22.04,Default,,0000,0000,0000,,Átlagos.
+Dialogue: 5,0:14:22.04,0:14:24.03,Default,,0000,0000,0000,,Mennyire "áltagos"?
 Dialogue: 5,0:14:24.03,0:14:26.99,Default,,0000,0000,0000,,Middle-level cute, upper-middle-level cute, lower-middle level cute?
 Dialogue: 5,0:14:26.99,0:14:29.08,Default,,0000,0000,0000,,Or more like... Wait,
 Dialogue: 5,0:14:29.08,0:14:31.87,Default,,0000,0000,0000,,what does "normal" mean to you, anyway?
-Dialogue: 5,0:14:31.87,0:14:33.51,Default,,0000,0000,0000,,{\i1}I have to do this every day?
-Dialogue: 5,0:14:33.51,0:14:35.17,Default,,0000,0000,0000,,{\i1}Are you kidding me?
+Dialogue: 5,0:14:31.87,0:14:33.51,Default,,0000,0000,0000,,{\i1}Ezt? Minden nap?
+Dialogue: 5,0:14:33.51,0:14:35.17,Default,,0000,0000,0000,,{\i1}Ugye viccelsz?
 Dialogue: 5,0:14:41.14,0:14:43.29,Default,,0000,0000,0000,,Exams are finally over.
 Dialogue: 5,0:14:43.29,0:14:45.98,Default,,0000,0000,0000,,Wanna go somewhere since we got out early?
 Dialogue: 5,0:14:45.98,0:14:47.55,Default,,0000,0000,0000,,{\i1}Early dismissal, huh?
@@ -4159,11 +4159,11 @@ Dialogue: 2,0:23:35.35,0:23:35.39,EpTitle,,0000,0000,0000,,{\1c&H000000&\fscx100
 Dialogue: 3,0:23:35.35,0:23:35.39,EpTitle,,0000,0000,0000,,{\fscx100\fscy100\frz0\blur0.6\an3\bord0\clip(11,.667,15,683.333,596.667)\pos(629.91,147.33)}Lament
 Dialogue: 2,0:23:35.39,0:23:49.94,EpTitle,,0000,0000,0000,,{\1c&H000000&\fscx100\fscy100\frz0\blur0.6\an3\bord3\clip(11,.667,15,683.333,596.667)\pos(624.67,147.33)}Lament
 Dialogue: 3,0:23:35.39,0:23:49.94,EpTitle,,0000,0000,0000,,{\fscx100\fscy100\frz0\blur0.4\an3\bord0\clip(11,.667,15,683.333,596.667)\pos(624.67,147.33)}Lament
-Dialogue: 5,0:23:35.83,0:23:38.25,Default,,0035,0000,0003,,{\an1}So how long do\Nyou plan on staying in here?
-Dialogue: 5,0:23:38.25,0:23:40.95,Default,,0000,0035,0003,,{\an3}You know, I used to have a friend.
-Dialogue: 5,0:23:40.95,0:23:42.20,Default,,0000,0000,0003,,{\an3}Until middle school, that is.
-Dialogue: 5,0:23:42.20,0:23:42.96,Default,,0035,0000,0003,,{\an1}You don't say?
-Dialogue: 5,0:23:42.96,0:23:45.35,Default,,0000,0000,0003,,{\an3}I think I'll try calling her up.
-Dialogue: 5,0:23:45.35,0:23:46.25,Default,,0035,0000,0003,,{\an1}Go for it.
-Dialogue: 5,0:23:46.25,0:23:47.59,Default,,0000,0000,0003,,{\an3}Yeah. I will.
-Dialogue: 5,0:23:47.59,0:23:49.14,Default,,0035,0000,0003,,{\an1}Just don't do it in here.
+Dialogue: 5,0:23:35.83,0:23:38.25,Default,,0035,0000,0003,,{\an1}Meddig maradsz még?
+Dialogue: 5,0:23:38.25,0:23:40.95,Default,,0000,0035,0003,,{\an3}Tudod, volt nekem egy barátom.
+Dialogue: 5,0:23:40.95,0:23:42.20,Default,,0000,0000,0003,,{\an3}Egészen általános végéig.
+Dialogue: 5,0:23:42.20,0:23:42.96,Default,,0035,0000,0003,,{\an1}Igazán?
+Dialogue: 5,0:23:42.96,0:23:45.35,Default,,0000,0000,0003,,{\an3}Régen beszéltünk, azt hiszem felhívom.
+Dialogue: 5,0:23:45.35,0:23:46.25,Default,,0035,0000,0003,,{\an1}Tedd azt.
+Dialogue: 5,0:23:46.25,0:23:47.59,Default,,0000,0000,0003,,{\an3}Igen. Máris.
+Dialogue: 5,0:23:47.59,0:23:49.14,Default,,0035,0000,0003,,{\an1}Csak ne itt, oké.
